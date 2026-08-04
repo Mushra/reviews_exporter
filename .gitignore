@@ -1,4 +1,5 @@
 __pycache__/
+_archive/
 *.py[cod]
 *.spec
 .venv/
