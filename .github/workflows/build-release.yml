@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   build-windows:
@@ -32,8 +32,10 @@ jobs:
         run: |
           pyinstaller --noconfirm --onefile --windowed --name "MetacriticReviewExporter" --add-data "data;data" main.py
 
-      - name: Upload executable as workflow artifact
-        uses: actions/upload-artifact@v4
+      - name: Create GitHub Release
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: softprops/action-gh-release@v2
         with:
-          name: MetacriticReviewExporter-${{ github.ref_name }}
-          path: dist/MetacriticReviewExporter.exe
+          files: dist/MetacriticReviewExporter.exe
+          draft: false
+          prerelease: false
