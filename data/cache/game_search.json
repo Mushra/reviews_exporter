@@ -1,0 +1,984 @@
+{
+  "elden": [
+    {
+      "title": "Elden Ring",
+      "slug": "elden-ring",
+      "score": 80
+    },
+    {
+      "title": "Elden Ring Nightreign: The Forsaken Hollows",
+      "slug": "elden-ring-nightreign-the-forsaken-hollows",
+      "score": 80
+    },
+    {
+      "title": "Elden Ring: Shadow of the Erdtree",
+      "slug": "elden-ring-shadow-of-the-erdtree",
+      "score": 80
+    },
+    {
+      "title": "Elden Ring Nightreign",
+      "slug": "elden-ring-nightreign",
+      "score": 80
+    },
+    {
+      "title": "Elden: Path of the Forgotten",
+      "slug": "elden-path-of-the-forgotten",
+      "score": 80
+    },
+    {
+      "title": "Elden Gunfire 2",
+      "slug": "elden-gunfire-2",
+      "score": 80
+    },
+    {
+      "title": "Elden Ring: Tarnished Edition",
+      "slug": "elden-ring-tarnished-edition",
+      "score": 80
+    },
+    {
+      "title": "Elden Gunfire",
+      "slug": "elden-gunfire",
+      "score": 80
+    },
+    {
+      "title": "Elden Ring: Shadow of the Erdtree Edition",
+      "slug": "elden-ring-shadow-of-the-erdtree-edition",
+      "score": 80
+    },
+    {
+      "title": "Elden Sword",
+      "slug": "elden-sword",
+      "score": 80
+    }
+  ],
+  "el": [
+    {
+      "title": "El",
+      "slug": "el",
+      "score": 100,
+      "url": ""
+    },
+    {
+      "title": "el.",
+      "slug": "el-2014",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "El Paso, Elsewhere",
+      "slug": "el-paso-elsewhere",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Elden Ring",
+      "slug": "elden-ring",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Elza (Le bonheur d'Elza)",
+      "slug": "elza-le-bonheur-delza",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Elite: Dangerous",
+      "slug": "elite-dangerous",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Elle",
+      "slug": "elle",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Elex",
+      "slug": "elex",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "El Camino: A Breaking Bad Movie",
+      "slug": "el-camino-a-breaking-bad-movie",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "The Elder Scrolls Online: Elsweyr",
+      "slug": "the-elder-scrolls-online-elsweyr",
+      "score": 50,
+      "url": ""
+    }
+  ],
+  "eld": [
+    {
+      "title": "Elden Ring",
+      "slug": "elden-ring",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Elden Ring Nightreign: The Forsaken Hollows",
+      "slug": "elden-ring-nightreign-the-forsaken-hollows",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Elden Ring: Shadow of the Erdtree",
+      "slug": "elden-ring-shadow-of-the-erdtree",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Elden Ring Nightreign",
+      "slug": "elden-ring-nightreign",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Eldegarde",
+      "slug": "eldegarde",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "The Elder Scrolls V: Skyrim",
+      "slug": "the-elder-scrolls-v-skyrim",
+      "score": 50,
+      "url": ""
+    },
+    {
+      "title": "The Elder Scrolls IV: Oblivion",
+      "slug": "the-elder-scrolls-iv-oblivion",
+      "score": 50,
+      "url": ""
+    },
+    {
+      "title": "The Elder Scrolls V: Skyrim Special Edition",
+      "slug": "the-elder-scrolls-v-skyrim-special-edition",
+      "score": 50,
+      "url": ""
+    },
+    {
+      "title": "The Elder Scrolls III: Morrowind",
+      "slug": "the-elder-scrolls-iii-morrowind",
+      "score": 50,
+      "url": ""
+    },
+    {
+      "title": "The Elder Scrolls Online: Tamriel Unlimited",
+      "slug": "the-elder-scrolls-online-tamriel-unlimited",
+      "score": 50,
+      "url": ""
+    }
+  ],
+  "elde": [
+    {
+      "title": "Elden Ring",
+      "slug": "elden-ring",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Elden Ring Nightreign: The Forsaken Hollows",
+      "slug": "elden-ring-nightreign-the-forsaken-hollows",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Elden Ring: Shadow of the Erdtree",
+      "slug": "elden-ring-shadow-of-the-erdtree",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Elden Ring Nightreign",
+      "slug": "elden-ring-nightreign",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Eldegarde",
+      "slug": "eldegarde",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "The Elder Scrolls V: Skyrim",
+      "slug": "the-elder-scrolls-v-skyrim",
+      "score": 50,
+      "url": ""
+    },
+    {
+      "title": "The Elder Scrolls IV: Oblivion",
+      "slug": "the-elder-scrolls-iv-oblivion",
+      "score": 50,
+      "url": ""
+    },
+    {
+      "title": "The Elder Scrolls V: Skyrim Special Edition",
+      "slug": "the-elder-scrolls-v-skyrim-special-edition",
+      "score": 50,
+      "url": ""
+    },
+    {
+      "title": "The Elder Scrolls III: Morrowind",
+      "slug": "the-elder-scrolls-iii-morrowind",
+      "score": 50,
+      "url": ""
+    },
+    {
+      "title": "The Elder Scrolls Online: Tamriel Unlimited",
+      "slug": "the-elder-scrolls-online-tamriel-unlimited",
+      "score": 50,
+      "url": ""
+    }
+  ],
+  "elden ring": [
+    {
+      "title": "Elden Ring",
+      "slug": "elden-ring",
+      "score": 100,
+      "url": ""
+    },
+    {
+      "title": "Elden Ring Nightreign: The Forsaken Hollows",
+      "slug": "elden-ring-nightreign-the-forsaken-hollows",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Elden Ring: Shadow of the Erdtree",
+      "slug": "elden-ring-shadow-of-the-erdtree",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Elden Ring Nightreign",
+      "slug": "elden-ring-nightreign",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Elden Ring: Tarnished Edition",
+      "slug": "elden-ring-tarnished-edition",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Elden Ring: Shadow of the Erdtree Edition",
+      "slug": "elden-ring-shadow-of-the-erdtree-edition",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "The Lord of the Rings: The Rings of Power",
+      "slug": "the-lord-of-the-rings-the-rings-of-power",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Elden: Path of the Forgotten",
+      "slug": "elden-path-of-the-forgotten",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "slug": "the-lord-of-the-rings-the-return-of-the-king",
+      "score": 10,
+      "url": ""
+    }
+  ],
+  "ghost of": [
+    {
+      "title": "Ghost of Tsushima",
+      "slug": "ghost-of-tsushima",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Ghost of Tsushima: Director's Cut",
+      "slug": "ghost-of-tsushima-directors-cut",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Ghost of Tsushima: Iki Island",
+      "slug": "ghost-of-tsushima-iki-island",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Ghost of Yotei",
+      "slug": "ghost-of-yotei",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Ghost of a Tale",
+      "slug": "ghost-of-a-tale",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Ghost of Tsushima: Legends",
+      "slug": "ghost-of-tsushima-legends",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "God of War: Ghost of Sparta",
+      "slug": "god-of-war-ghost-of-sparta",
+      "score": 50,
+      "url": ""
+    },
+    {
+      "title": "Duck Detective: The Ghost of Glamping",
+      "slug": "duck-detective-the-ghost-of-glamping",
+      "score": 50,
+      "url": ""
+    },
+    {
+      "title": "The Ghost of Richard Harris",
+      "slug": "the-ghost-of-richard-harris",
+      "score": 50,
+      "url": ""
+    },
+    {
+      "title": "The Ghost of Peter Sellers",
+      "slug": "the-ghost-of-peter-sellers",
+      "score": 50,
+      "url": ""
+    }
+  ],
+  "ghost of yo": [
+    {
+      "title": "Ghost of Yotei",
+      "slug": "ghost-of-yotei",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Ghost of Yotei: Legends",
+      "slug": "ghost-of-yotei-legends",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "The Ghost of You",
+      "slug": "the-ghost-of-you",
+      "score": 50,
+      "url": ""
+    },
+    {
+      "title": "God of War: Ghost of Sparta",
+      "slug": "god-of-war-ghost-of-sparta",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Ghost of Tsushima",
+      "slug": "ghost-of-tsushima",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Ghost of Tsushima: Director's Cut",
+      "slug": "ghost-of-tsushima-directors-cut",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Call of Duty: Ghosts",
+      "slug": "call-of-duty-ghosts",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Ghost of Tsushima: Iki Island",
+      "slug": "ghost-of-tsushima-iki-island",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Ghostbusters: Rise of the Ghost Lord",
+      "slug": "ghostbusters-rise-of-the-ghost-lord",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Ghost of a Tale",
+      "slug": "ghost-of-a-tale",
+      "score": 10,
+      "url": ""
+    }
+  ],
+  "ghost of yotei": [
+    {
+      "title": "Ghost of Yotei",
+      "slug": "ghost-of-yotei",
+      "score": 100,
+      "url": ""
+    },
+    {
+      "title": "Ghost of Yotei: Legends",
+      "slug": "ghost-of-yotei-legends",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "God of War: Ghost of Sparta",
+      "slug": "god-of-war-ghost-of-sparta",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Ghost of Tsushima",
+      "slug": "ghost-of-tsushima",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Ghost of Tsushima: Director's Cut",
+      "slug": "ghost-of-tsushima-directors-cut",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Call of Duty: Ghosts",
+      "slug": "call-of-duty-ghosts",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Ghost of Tsushima: Iki Island",
+      "slug": "ghost-of-tsushima-iki-island",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Ghostbusters: Rise of the Ghost Lord",
+      "slug": "ghostbusters-rise-of-the-ghost-lord",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Ghost of a Tale",
+      "slug": "ghost-of-a-tale",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Duck Detective: The Ghost of Glamping",
+      "slug": "duck-detective-the-ghost-of-glamping",
+      "score": 10,
+      "url": ""
+    }
+  ],
+  "mario": [
+    {
+      "title": "Mario",
+      "slug": "mario",
+      "score": 100,
+      "url": ""
+    },
+    {
+      "title": "Mario",
+      "slug": "mario-4",
+      "score": 100,
+      "url": ""
+    },
+    {
+      "title": "Mario",
+      "slug": "mario-5",
+      "score": 100,
+      "url": ""
+    },
+    {
+      "title": "Mario",
+      "slug": "mario-6",
+      "score": 100,
+      "url": ""
+    },
+    {
+      "title": "Mario",
+      "slug": "mario-9",
+      "score": 100,
+      "url": ""
+    },
+    {
+      "title": "Mario",
+      "slug": "mario-7",
+      "score": 100,
+      "url": ""
+    },
+    {
+      "title": "Mario",
+      "slug": "mario-8",
+      "score": 100,
+      "url": ""
+    },
+    {
+      "title": "Mario",
+      "slug": "mario-10",
+      "score": 100,
+      "url": ""
+    },
+    {
+      "title": "Mario",
+      "slug": "mario-2",
+      "score": 100,
+      "url": ""
+    },
+    {
+      "title": "Mario",
+      "slug": "mario-3",
+      "score": 100,
+      "url": ""
+    }
+  ],
+  "007": [
+    {
+      "title": "007 First Light",
+      "slug": "007-first-light",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "007: NightFire",
+      "slug": "james-bond-007-nightfire",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "007: The World is not Enough",
+      "slug": "007-the-world-is-not-enough",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "007: Quantum of Solace",
+      "slug": "quantum-of-solace",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "007 Legends",
+      "slug": "007-legends",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "007: Road to a Million",
+      "slug": "007-road-to-a-million",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "007: Quantum of Solace (Nintendo DS)",
+      "slug": "007-quantum-of-solace-nintendo-ds",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "007: Tomorrow Never Dies / 007: The World Is Not Enough",
+      "slug": "007-tomorrow-never-dies-007-the-world-is-not",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "007 Racing",
+      "slug": "007-racing",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "007: Top Agent",
+      "slug": "007-top-agent",
+      "score": 80,
+      "url": ""
+    }
+  ],
+  "007 fi": [
+    {
+      "title": "007 First Light",
+      "slug": "007-first-light",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "007: NightFire",
+      "slug": "james-bond-007-nightfire",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "James Bond 007: Agent Under Fire",
+      "slug": "james-bond-007-agent-under-fire",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "GoldenEye 007",
+      "slug": "goldeneye-007",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "GoldenEye 007 (2010)",
+      "slug": "goldeneye-007-2010",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "James Bond 007: Everything or Nothing",
+      "slug": "james-bond-007-everything-or-nothing",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "007: The World is not Enough",
+      "slug": "007-the-world-is-not-enough",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "GoldenEye 007: Reloaded",
+      "slug": "goldeneye-007-reloaded",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "007: Quantum of Solace",
+      "slug": "quantum-of-solace",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Blood Stone: 007",
+      "slug": "blood-stone-007",
+      "score": 10,
+      "url": ""
+    }
+  ],
+  "007 first light": [
+    {
+      "title": "007 First Light",
+      "slug": "007-first-light",
+      "score": 100,
+      "url": ""
+    },
+    {
+      "title": "inFamous: First Light",
+      "slug": "infamous-first-light",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Projection: First Light",
+      "slug": "projection-first-light",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "GoldenEye 007",
+      "slug": "goldeneye-007",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "At First Light",
+      "slug": "at-first-light",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "GoldenEye 007 (2010)",
+      "slug": "goldeneye-007-2010",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "First Light",
+      "slug": "first-light",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Cyberforge: First Light",
+      "slug": "cyberforge-first-light",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Little Strays 2: Souls of First Light",
+      "slug": "little-strays-2-souls-of-first-light",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "First Light (Ephphatha Games)",
+      "slug": "first-light-ephphatha-games",
+      "score": 10,
+      "url": ""
+    }
+  ],
+  "assassin's creed shadow": [
+    {
+      "title": "Assassin's Creed Shadows",
+      "slug": "assassins-creed-shadows",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Assassin's Creed Shadows: Claws of Awaji",
+      "slug": "assassins-creed-shadows-claws-of-awaji",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Assassin's Creed Valhalla",
+      "slug": "assassins-creed-valhalla",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Assassin's Creed IV: Black Flag",
+      "slug": "assassins-creed-iv-black-flag",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Assassin's Creed Odyssey",
+      "slug": "assassins-creed-odyssey",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Assassin's Creed II",
+      "slug": "assassins-creed-ii",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Assassin's Creed Origins",
+      "slug": "assassins-creed-origins",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Assassin's Creed: Brotherhood",
+      "slug": "assassins-creed-brotherhood",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Assassin's Creed III",
+      "slug": "assassins-creed-iii",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Assassin's Creed Unity",
+      "slug": "assassins-creed-unity",
+      "score": 10,
+      "url": ""
+    }
+  ],
+  "assassin's creed shadows": [
+    {
+      "title": "Assassin's Creed Shadows",
+      "slug": "assassins-creed-shadows",
+      "score": 100,
+      "url": ""
+    },
+    {
+      "title": "Assassin's Creed Shadows: Claws of Awaji",
+      "slug": "assassins-creed-shadows-claws-of-awaji",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Assassin's Creed Valhalla",
+      "slug": "assassins-creed-valhalla",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Assassin's Creed IV: Black Flag",
+      "slug": "assassins-creed-iv-black-flag",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Assassin's Creed Odyssey",
+      "slug": "assassins-creed-odyssey",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Assassin's Creed II",
+      "slug": "assassins-creed-ii",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Assassin's Creed Origins",
+      "slug": "assassins-creed-origins",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Assassin's Creed: Brotherhood",
+      "slug": "assassins-creed-brotherhood",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Assassin's Creed III",
+      "slug": "assassins-creed-iii",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Assassin's Creed Unity",
+      "slug": "assassins-creed-unity",
+      "score": 10,
+      "url": ""
+    }
+  ],
+  "red dead": [
+    {
+      "title": "Red Dead Redemption 2",
+      "slug": "red-dead-redemption-2",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Red Dead Redemption",
+      "slug": "red-dead-redemption",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Red Dead Redemption and Undead Nightmare",
+      "slug": "red-dead-redemption-and-undead-nightmare",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Red Dead Redemption: Undead Nightmare Pack",
+      "slug": "red-dead-redemption-undead-nightmare-pack",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Red Dead Redemption Featuring Undead Nightmare",
+      "slug": "red-dead-redemption-featuring-undead-nightmare",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Red Dead Redemption: Liars and Cheats",
+      "slug": "red-dead-redemption-liars-and-cheats",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Red Dead Revolver",
+      "slug": "red-dead-revolver",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Red Dead Redemption: Legends & Killers",
+      "slug": "red-dead-redemption-legends-and-killers",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Red Dead Redemption: Game of the Year Edition",
+      "slug": "red-dead-redemption-game-of-the-year-edition",
+      "score": 80,
+      "url": ""
+    },
+    {
+      "title": "Red Dead Online",
+      "slug": "red-dead-online",
+      "score": 80,
+      "url": ""
+    }
+  ],
+  "red dead redemption 2": [
+    {
+      "title": "Red Dead Redemption 2",
+      "slug": "red-dead-redemption-2",
+      "score": 100,
+      "url": ""
+    },
+    {
+      "title": "Red Dead Redemption",
+      "slug": "red-dead-redemption",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Red Dead Redemption and Undead Nightmare",
+      "slug": "red-dead-redemption-and-undead-nightmare",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Red Dead Redemption: Undead Nightmare Pack",
+      "slug": "red-dead-redemption-undead-nightmare-pack",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Red Dead Redemption Featuring Undead Nightmare",
+      "slug": "red-dead-redemption-featuring-undead-nightmare",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Red Dead Redemption: Liars and Cheats",
+      "slug": "red-dead-redemption-liars-and-cheats",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Red Dead Redemption: Legends & Killers",
+      "slug": "red-dead-redemption-legends-and-killers",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "Red Dead Redemption: Game of the Year Edition",
+      "slug": "red-dead-redemption-game-of-the-year-edition",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "slug": "the-shawshank-redemption",
+      "score": 10,
+      "url": ""
+    },
+    {
+      "title": "The Raid: Redemption",
+      "slug": "the-raid-redemption",
+      "score": 10,
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,1773 @@
+{
+  "game": "red-dead-redemption-2",
+  "platform": "pc",
+  "api_platform": "pc",
+  "review_type": "critic",
+  "totalResults": 49,
+  "items": [
+    {
+      "quote": "An absorbing tale that will test your machine and tear ducts. A game that did not suffer from being brought to PC. RDR2 is worth overcoming all the shortcomings, since it is one of the best games of the decade. [Issue#300]",
+      "score": 100,
+      "url": "",
+      "date": "2020-02-28",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "LEVEL (Czech Republic)",
+      "publicationSlug": "level-czech-republic",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "Victory of gaming as an art and the pinnacle of creativity in the gaming industry. A true, impeccably-polished masterpiece that will set standards for a decade to come.",
+      "score": 90,
+      "url": "http://play.co.rs/2019/12/review-red-dead-redemption-2-2/",
+      "date": "2019-12-30",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "PLAY! Zine",
+      "publicationSlug": "play!-zine",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "My biggest warning to anyone considering purchasing RDR2 on PC is that you need to have patience when you set it up. Take the time to go through each graphics option, compare your performance on Vulkan vs. DirectX 12, and tailor the game to your specs. Once you have the game tuned, there’s no better way to experience it than on PC.",
+      "score": 100,
+      "url": "https://www.gamerevolution.com/review/624227-red-dead-redemption-2-pc-review",
+      "date": "2019-12-17",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Game Revolution",
+      "publicationSlug": "game-revolution",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "A gorgeous world with so much to explore awaits everyone. It's not without some faults, and those with older spec'd PCs may have trouble running this. If you've got the rig to handle it, it's a wonderful experience.",
+      "score": 90,
+      "url": "https://www.gamingnexus.com/Article/6028/Red-Dead-Redemption-2/",
+      "date": "2019-12-13",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Gaming Nexus",
+      "publicationSlug": "gaming-nexus",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "Red Dead Redemption 2 is one of the greatest games of this generation, and this PC port is no different after a solid month of stumbles and patches. I am excited to see what the future of Red Dead Online holds, and excited to see how people continue to interact with this game in the future.",
+      "score": 91,
+      "url": "https://www.gaming-age.com/2019/12/red-dead-redemption-2-review-for-pc/",
+      "date": "2019-12-12",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Gaming Age",
+      "publicationSlug": "gaming-age",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "This monumentally huge game, full of unprecedented detail and atmosphere of the Wild West, simply has no equal. Its PC port isn’t perfect by any means, especially regarding the mouse and keyboard controls and the clunky interface.",
+      "score": 90,
+      "url": "https://games.tiscali.cz/recenze/red-dead-redemption-ii-recenze-pc-verze-336624",
+      "date": "2019-12-10",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Games.cz",
+      "publicationSlug": "gamescz",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "With most of the bugs ironed out, and with the PC version getting extra features and graphical improvements, this might be the best version of this game.",
+      "score": 100,
+      "url": "https://www.vgames.co.il/article/26516.html",
+      "date": "2019-12-09",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Vgames",
+      "publicationSlug": "vgames",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "Red Dead Redemption 2 is certainly something we had never seen before on PC. It is a real next-gen game that makes us wonder how much is there still yet to achieve in the world of videogames.",
+      "score": 100,
+      "url": "https://areajugones.sport.es/videojuegos/red-dead-redemption-2-en-pc-es-todavia-mejor-que-en-consola/",
+      "date": "2019-12-04",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Areajugones",
+      "publicationSlug": "areajugones",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "It’s been nine years since the MOTU race has had to read, listen to or watch the couch warriors carry on about this “amazing Western gaming experience”, but now, finally, it’s here and you can strap yourself into your desk chair and uncover the world of New Hanover and beyond. Just… take your time. It’s honestly still worth it, even over 1000 hours in single-player on.",
+      "score": 100,
+      "url": "https://www.ausgamers.com/games/red-dead-redemption-2-pc/review/",
+      "date": "2019-12-04",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "AusGamers",
+      "publicationSlug": "ausgamers",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "Red Dead Redemption 2 on PC is the definitive version of Rockstar’s Western epic. The game has never looked as good, nor played as well. This is one of the best stories Rockstar has ever told, even if their storytelling has become a little predictable, but that cannot take away from how exceptional the whole package is it.",
+      "score": 95,
+      "url": "https://www.gameplanet.com.au/pc/reviews/g5de567915c377/Red-Dead-Redemption-2-PC-Review/",
+      "date": "2019-12-03",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Gameplanet",
+      "publicationSlug": "gameplanet",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "When the game was released for the major consoles last year, I was annoyed. As a PC user, I was still waiting for Rockstar to release the original Red Dead Redemption on PC. Well, that never happened, and a year after the console versions were released, I was beginning to think that Red Dead Redemption 2 would suffer the same fate. But I’m happy to say that it has finally arrived, and it is a glorious cinematic gaming experience that was well worth the wait.",
+      "score": 93,
+      "url": "https://www.hookedgamers.com/pc/red_dead_redemption_2/review/article-2104.html",
+      "date": "2019-11-27",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Hooked Gamers",
+      "publicationSlug": "hooked-gamers",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "I’m completely and totally immersed in this world, but at the same time kind of wondering about the “gameness” of what I’m doing, which is often less about thrilling adventure and more about Zen and the art of horseback riding, which makes it kind of a unique experience, and for me one worth having.",
+      "score": 90,
+      "url": "http://www.game-over.com/content/2019/11/red-dead-redemption-2-pc/#sthash.hG27hBUc.dpbs",
+      "date": "2019-11-26",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Game Over Online",
+      "publicationSlug": "game-over-online",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "Once upon a time people would overuse the word “epic”, but it’s a phrase truly befitting of Rockstar’s brilliant Red Dead Redemption 2.",
+      "score": 100,
+      "url": "https://www.godisageek.com/reviews/red-dead-redemption-2-pc-review/",
+      "date": "2019-11-25",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "God is a Geek",
+      "publicationSlug": "god-is-a-geek",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "I'm quite sure that Red Dead Redemption 2 doesn't redefine the open-world genre, but it surely brings it to a much higher level. And it's not just through sheer size that it does that, but by combining writing, visuals, music, voice acting, and gameplay mechanics to deliver an engrossing experience that sometimes is better than the one in the real world.",
+      "score": 90,
+      "url": "https://www.softpedia.com/reviews/games/pc/red-dead-redemption-review-528292.shtml",
+      "date": "2019-11-25",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Softpedia",
+      "publicationSlug": "softpedia",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "Red Dead Redemption 2 is a masterpiece. No other game has ever tried and succeeded to capture a sense of a time and place long gone while also blending social commentary so well. The addition of a multiplayer mode that's a real step up from Rockstar's last effort makes Red Dead Redemption 2 unmissable on PC.",
+      "score": 100,
+      "url": "https://www.thedigitalfix.com/gaming/content/23989/red-dead-redemption-2-pc/",
+      "date": "2019-11-25",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "The Digital Fix",
+      "publicationSlug": "the-digital-fix",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "It’s an extraordinary, poetic, stuffed with content and full of the Western atmosphere sandbox which will be played for years to come. [13/2019, p.76]",
+      "score": 95,
+      "url": "",
+      "date": "2019-11-25",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "CD-Action",
+      "publicationSlug": "cd-action",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "Red Dead Redemption 2 on the PC is the top-tier version of the game. It’s the Woodford Reserve bourbon when you’re used to drinking Kentucky Gentleman. It will most undoubtedly look better than the console version and include all the gameplay that you would expect from the title, but the cost of getting it to that Woodford Reserve level is definitely a price only a PC elitist would understand and accept.",
+      "score": 95,
+      "url": "http://digitalchumps.com/red-dead-redemption-2-pc/",
+      "date": "2019-11-21",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Digital Chumps",
+      "publicationSlug": "digital-chumps",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "The bottom line? I would heartily recommend this game to any Western Enthusiast or just anyone who would like to play some G.T.E. (Grand Theft Equus).",
+      "score": 100,
+      "url": "https://www.impulsegamer.com/red-dead-redemption-2-pc-game-review/",
+      "date": "2019-11-19",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Impulsegamer",
+      "publicationSlug": "impulsegamer",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "These are early days for the PC release and hopefully, the technical issues are addressed in the coming days. As things stand now, unless you have a top-notch PC, chances are you’re running a rig like mine and will have to make graphical compromises that leave you experiencing the game in a presentation fairly similar to that on the consoles. Regardless, this is unquestionably a brilliant experience. Everything about this version is bigger and better than the console version providing you have the rig to run it on.",
+      "score": 93,
+      "url": "https://cogconnected.com/review/red-dead-redemption-2-review-2/",
+      "date": "2019-11-18",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "COGconnected",
+      "publicationSlug": "cogconnected",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "Red Dead Redemption 2's stark, slow depiction of America's fading frontier is a monumental work straining against stubborn mission design and stability problems.",
+      "score": 88,
+      "url": "https://www.pcgamer.com/red-dead-redemption-2-review/",
+      "date": "2019-11-15",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "PC Gamer",
+      "publicationSlug": "pc-gamer",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "Red Dead Redemption 2 on PC is everything that the console version was but better, although with some caveats. The controls are improved with mouse and keyboard, but are still a bit clunky. The graphics are breathtaking, but it does requires a beefy PC and there are some technical problems. If you can run it however, it's one of the best games the platform has to offer.",
+      "score": 90,
+      "url": "https://www.xgn.nl/review/red-dead-redemption-2-pc-review",
+      "date": "2019-11-15",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "XGN",
+      "publicationSlug": "xgn",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "Red Dead Redemption 2 on PC remains the same masterpiece we played on console but with a lot of technical problems.",
+      "score": 85,
+      "url": "https://multiplayer.it/recensioni/red-dead-redemption-2-pc-recensione.html",
+      "date": "2019-11-14",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Multiplayer.it",
+      "publicationSlug": "multiplayerit",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "Although Red Dead Redemption 2 for the PC has plenty of technical quirks, they're easy to overlook once you're immersed in the story and the breathtaking beauty of the world.",
+      "score": 80,
+      "url": "https://www.pcinvasion.com/red-dead-redemption-2-pc-review/",
+      "date": "2019-11-13",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "PC Invasion",
+      "publicationSlug": "pc-invasion",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "Red Dead Redemption 2 on PC expands what we saw on consoles a year ago. It brings new content for the campaign in the form of new weapons and missions, as well as a very entertaining photo mode. Technically it's superb and the mouse+keyboard control fits like a glove.",
+      "score": 99,
+      "url": "https://www.hobbyconsolas.com/reviews/analisis-red-dead-redemption-2-pc-528383",
+      "date": "2019-11-13",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Hobby Consolas",
+      "publicationSlug": "hobby-consolas",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "What’s the secret to take a masterpiece and make it better? Red Dead Redempion 2 comes to the PC with better graphics, better gameplay, more guns, more horses and more fun. You’ll just need a very powerful PC to endure its greatness.",
+      "score": 90,
+      "url": "https://www.eurogamer.it/articles/2019-11-13-red-dead-redemption-2-pc-recensione",
+      "date": "2019-11-13",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Eurogamer Italy",
+      "publicationSlug": "eurogamer-italy",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "In the end, this is still a fine game and a must-have for those who crave sprawling, open-world adventures, but you might be better served waiting for things to settle down if you don't want to troubleshoot things along the way.",
+      "score": 80,
+      "url": "https://worthplaying.com/article/2019/11/12/reviews/116894/",
+      "date": "2019-11-12",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Worth Playing",
+      "publicationSlug": "worth-playing",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "An epic masterpiece of modern gaming, whose PC launch is unfortunately marred by potentially serious technical issues.",
+      "score": 90,
+      "url": "https://ragequit.gr/reviews/item/red-dead-redemption-2-pc-review/",
+      "date": "2019-11-12",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Ragequit.gr",
+      "publicationSlug": "ragequitgr",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "The PC version does include some new content including Bounty Hunting Missions, Gang Hideouts, and addition weapons. The new world content fits seamlessly into the existing world and act as a nice bonus for players who have already put in dozens of hours on consoles and want to experience some brand new quests.",
+      "score": 100,
+      "url": "https://gamerant.com/red-dead-redemption-2-pc-review/",
+      "date": "2019-11-11",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Game Rant",
+      "publicationSlug": "game-rant",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "The PC release of Red Dead Redemption 2 is without a doubt visually breathtaking to behold, but a wide range of issues at launch sour the experience of revisiting Rockstar’s captivating Western.",
+      "score": 75,
+      "url": "https://www.cgmagonline.com/reviews/red-dead-redemption-2-pc-review/",
+      "date": "2019-11-11",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "CGMagazine",
+      "publicationSlug": "cgmagazine",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "There's not much in the way of new content, but Red Dead Redemption 2 is undoubtedly best played on PC. With scalable graphics options for future PC tech, improved input latency and an already burgeoning modding scene, Red Dead Redemption will continue to shine on the platform for years.",
+      "score": 90,
+      "url": "https://www.criticalhit.net/review/red-dead-redemption-2-pc-review-the-best-way-to-play-rockstars-divisive-cowboy-simulator/",
+      "date": "2019-11-11",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Critical Hit",
+      "publicationSlug": "critical-hit",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "It’s not perfect, but the PC version of one of the greatest games of the generation is definitely a sight to behold. Even with some room for improvement, PC players will enjoy making the most of their hardware with Rockstar’s latest title.",
+      "score": 93,
+      "url": "https://vandal.elespanol.com/analisis/pc/red-dead-redemption-2/42944#p-13",
+      "date": "2019-11-11",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Vandal",
+      "publicationSlug": "vandal",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "When everything clicks, Red Dead Redemption 2 for PC is a solid port, just not a perfect one. Largely carried by the fantastic quality of the game itself, the port does at least provide prettier visuals, additional content, and a fantastic new Photo Mode.",
+      "score": 90,
+      "url": "https://attackofthefanboy.com/reviews/red-dead-redemption-2-for-pc-review/",
+      "date": "2019-11-11",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Attack of the Fanboy",
+      "publicationSlug": "attack-of-the-fanboy",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "Like other large PC ports before it, Red Dead Redemption 2 suffers from some optimization and stability problems. However, once these problems are resolved, it will undoubtedly become one of the best games in years. The improved gaming experience, the comfort on PC and the graphic enhancement of a game that was already beautiful, contribute to make it an absolute must-have.",
+      "score": 90,
+      "url": "https://www.millenium.org/test/349038.html",
+      "date": "2019-11-10",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "MGG",
+      "publicationSlug": "mgg",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "Although this PC version does not offer much in the way of additional experience from its console counterpart, players who prefer the ability to spread out their fingers, adjust graphical and tech settings, or just never got around to playing it the first time will find much to love in Rockstar's massive ode to Western outlaw mythology.",
+      "score": 80,
+      "url": "https://screenrant.com/red-dead-redemption-2-pc-review/",
+      "date": "2019-11-08",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Screen Rant",
+      "publicationSlug": "screen-rant",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "After the long wait, finally Rockstar fans can play one of the finest games this generation. Red Dead Redemption 2, for those with the hardware capable of running it, is the best western gaming experience we could ever have hoped for.",
+      "score": 100,
+      "url": "https://www.3djuegos.com/juegos/analisis/25977/0/red-dead-redemption-2/",
+      "date": "2019-11-08",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "3DJuegos",
+      "publicationSlug": "3djuegos",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "This is Rockstar Games’ masterpiece. But crashes, the need for high-end hardware and some other flaws tarnish this western epic on PC.",
+      "score": 90,
+      "url": "https://www.4players.de/4players.php/dispbericht/PC-CDROM/Test/38241/84081/0/Red_Dead_Redemption_2.html",
+      "date": "2019-11-08",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "4P.de",
+      "publicationSlug": "4pde",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "Red Dead Redemption 2 was fantastic on PlayStation 4, and it remains fantastic even on PC, with the addition of some aspects that were missing in the original edition.",
+      "score": 99,
+      "url": "https://www.thegamesmachine.it/red-dead-redemption-2/red-dead-redemption-2-recensione-pc/",
+      "date": "2019-11-08",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "The Games Machine",
+      "publicationSlug": "the-games-machine",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "RDR2 is one of the greatest video games of all time, and there is no doubt that the PC is the best platform for Red Dead Redemption 2 because of its significant graphical improvements.",
+      "score": 100,
+      "url": "https://www.gamersky.com/review/201911/1236781.shtml",
+      "date": "2019-11-08",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Gamersky",
+      "publicationSlug": "gamersky",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "Right now, though, the freezing issue is bad enough that I simply can’t play the game until Rockstar fixes it. [Impressions]",
+      "score": null,
+      "url": "https://www.polygon.com/2019/11/7/20952369/red-dead-redemption-2-rdr2-pc-gameplay-freeze-crash",
+      "date": "2019-11-07",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Polygon",
+      "publicationSlug": "polygon",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "Mostly good, sometimes bad, never ugly. A prequel to a story that never made it to PC and which, honestly, makes me jealous of people coming to it for the first time. But even as someone who has spent a huge amount of time in this world, it’s a trip I’m more than happy to be taking again. A staggering technical achievement; a deliciously gooey shooter; the most accurate mud simulator outside of actual mud; a great advert for the healing power of peaches. However you approach Red Dead Redemption 2, there’s something to impress here. And on PC, it’s at its most impressive. [RPS Bestest Bests]",
+      "score": null,
+      "url": "https://www.rockpapershotgun.com/2019/11/07/red-dead-redemption-2-pc-review/",
+      "date": "2019-11-07",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Rock, Paper, Shotgun",
+      "publicationSlug": "rock-paper-shotgun",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "Red Dead Redemption 2 is an amazing achievement in terms of production values, but it is also a fundamentally flawed video game that leverages its seemingly infinite resources in such a self-indulgent way that it undermines both its storytelling and your patience for seeing it through to the end.\r\n",
+      "score": null,
+      "url": "https://metro.co.uk/2019/11/07/red-dead-redemption-2-pc-review-discouraging-word-11057089/",
+      "date": "2019-11-07",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Metro GameCentral",
+      "publicationSlug": "metro-gamecentral",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "PC is the best place to play last year’s best game. It’s massive yet loses no focus, epic on every level, and combines Rockstar’s penchant for immense detail with a surprising amount of heart.",
+      "score": 100,
+      "url": "https://www.pcgamesn.com/red-dead-redemption-2/pc-review",
+      "date": "2019-11-07",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "PCGamesN",
+      "publicationSlug": "pcgamesn",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "In a world where developers who design experiences for console and try throw them on the PC, Rockstar Games beautifully takes its time in creating a port that both serves the artistic purposes of the original while allowing players to run free in their best open world to date. Just make sure your PC is up to standard...The real verdict will shine once modders get their hands into the files and begin to create some crazy mods for the game – something which may be a major selling point for this PC version down the line.",
+      "score": 80,
+      "url": "https://www.dailystar.co.uk/tech/gaming/red-dead-redemption-2-pc-20826683",
+      "date": "2019-11-06",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Daily Star",
+      "publicationSlug": "daily-star",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "On one side we are facing one of the most beautiful open-world ever designed, technically sublimated by this portage. We also appreciate the flexibility of the title in terms of settings, which allows a large number of configurations to be comfortable.",
+      "score": 95,
+      "url": "http://www.jeuxvideo.com/test/1139011/red-dead-redemption-2-une-version-pc-sublime-mais-quelques-couacs-techniques.htm",
+      "date": "2019-11-06",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Jeuxvideo.com",
+      "publicationSlug": "jeuxvideocom",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "Despite how enjoyable the game itself is, what Rockstar Games has deigned to deliver to PC players can only be described as a big old mess.",
+      "score": null,
+      "url": "https://www.thesixthaxis.com/2019/11/06/red-dead-redemption-2-pc-launch-review-problems-bugs-issues-fixes/",
+      "date": "2019-11-06",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "TheSixthAxis",
+      "publicationSlug": "thesixthaxis",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "Still an unconditional recommendation for PC cowboys due to the grandiose staging, the incredible detail and the story of Arthur Morgan.",
+      "score": 92,
+      "url": "https://www.gamestar.de/artikel/red-dead-redemption-2-im-pc-test-outlaws-im-nebel,3350911.html",
+      "date": "2019-11-06",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "GameStar",
+      "publicationSlug": "gamestar",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "This is the sort of game that begs for a photo mode (more so than nearly anything else this past year), so take advantage of it.",
+      "score": 95,
+      "url": "https://www.destructoid.com/red-dead-redemption-2-is-just-as-lovely-on-pc-571462.phtml",
+      "date": "2019-11-05",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Destructoid",
+      "publicationSlug": "destructoid",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "From a technical point, this PC version of Red Dead Redemption II is simply amazing if you have a good computer that can handle its huge number of graphical options. It is clearly one of the most complete games at this level. On the other hand, it is clear that an optimization could be better, because even on a war machine with the latest drivers, there are some issues that could have been avoided.",
+      "score": 100,
+      "url": "http://www.gameblog.fr/tests/3542-red-dead-redemption-ii-pc",
+      "date": "2019-11-05",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Gameblog.fr",
+      "publicationSlug": "gameblogfr",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    },
+    {
+      "quote": "In good news, RDR2's PC port works as a pretty, settings-cranked-high alternative to last year's console release. Its most obvious upgrade comes in the form of an unlocked frame rate. In one morning of testing, I was already able to crank performance (after downgrading a bunch of settings) to an apparent 120fps-and-up threshold, although random performative spikes—usually triggered by sharp cuts in cinematic scenes—made me glad I had a variable refresh rate monitor...In bad news, RDR2's facial and body animations were never built for these kinds of high speeds.",
+      "score": null,
+      "url": "https://arstechnica.com/gaming/2019/11/red-dead-redemption-2-launches-on-pc-we-take-a-mosey-through-its-upgrades/",
+      "date": "2019-11-05",
+      "author": "",
+      "authorSlug": null,
+      "image": null,
+      "publicationName": "Ars Technica",
+      "publicationSlug": "ars-technica",
+      "reviewedProduct": {
+        "id": 1400579386,
+        "type": "games",
+        "title": "Red Dead Redemption 2",
+        "url": "/game/red-dead-redemption-2/",
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/?platform=pc",
+          "score": 93
+        },
+        "platform": {
+          "id": 1533000068,
+          "name": "PC"
+        },
+        "gameTaxonomy": {
+          "game": {
+            "id": 1400579386,
+            "name": "Red Dead Redemption 2"
+          },
+          "platform": {
+            "id": 1533000068,
+            "name": "PC"
+          }
+        }
+      },
+      "platform": "PC"
+    }
+  ]
+}

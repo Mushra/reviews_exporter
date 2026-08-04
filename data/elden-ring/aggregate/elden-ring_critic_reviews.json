@@ -1,0 +1,1777 @@
+{
+  "game": "elden-ring",
+  "review_type": "critic",
+  "statistics": {
+    "total_reviews": 176,
+    "platforms": {
+      "pc": 63,
+      "playstation-4": 1,
+      "playstation-5": 93,
+      "xbox-series-x": 19
+    },
+    "average_score": 95.05,
+    "scored_reviews": 166
+  },
+  "reviews": [
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Mar 9, 2022",
+      "publication": "Attack of the Fanboy",
+      "score": 100,
+      "quote": "From Software upped the ante, surpassing even their best efforts that we saw with Sekiro Shadows Die Twice in terms of world building.  Elden Ring is an absolute must-play game for 2022, but set aside some time and some patience.",
+      "full_review_url": "https://attackofthefanboy.com/reviews/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "GameSpot",
+      "score": 100,
+      "quote": "In a genre that has become wrought with bloated and over-designed games, Elden Ring is defiantly contrarian in almost every way. Its commitment to design by subtraction and to placing the responsibility of charting a path through its world entirely on the player makes it stand head and shoulders above other open-world titles. Elden Ring takes the shards of what came before and forges them into something that will go down in history as one of the all-time greats: a triumph in design and creativity, and an open-world game that distinguishes itself for what it doesn't do as much as what it does.",
+      "full_review_url": "https://www.gamespot.com/reviews/elden-ring-review-in-progress-death-of-the-wild/1900-6417832/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Hardcore Gamer",
+      "score": 100,
+      "quote": "Elden Ring is one of the best games in years, with a breathtaking vast world to explore, and one of the most satisfying combat systems in an RPG. This is the accumulation of FromSoftware’s work over the last thirteen years and an evolution on its inspiring formula.",
+      "full_review_url": "https://hardcoregamer.com/reviews/review-elden-ring/419425/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Hey Poor Player",
+      "score": 100,
+      "quote": "Naysayers will point to reused assets, a lowering of the difficulty in Spirit Summons, but these people miss the point. Elden Ring is the definitive Souls experience, introducing a class-leading open-world design and mechanics that will draw more people to the franchise. And that’s nothing but a good thing.",
+      "full_review_url": "https://www.heypoorplayer.com/2022/02/23/elden-ring-review-pc/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Noisy Pixel",
+      "score": 100,
+      "quote": "Although challenging and grand, Elden Ring brilliantly immerses players in its fantasy world. The game rewards every type of player, from the curious explorer to the action-hungry warrior; you'll find something to love about this game. Even after 30 hours, there are still many adventures that await me in The Lands Between. This is an evolution of every Soulslike game that came before, and although brutally challenging, I couldn't put it down for a second.",
+      "full_review_url": "https://noisypixel.net/elden-ring-review-pc-ps4-ps5-xbox-one-series-x/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Twinfinite",
+      "score": 100,
+      "quote": "As an open-world skeptic who was pretty much convinced that the Souls formula wouldn't work in such a setting, I'm happy to have been proven wrong. Elden Ring retains the heart of what makes FromSoft's action RPGs so compelling, and takes things to a whole other level by pulling the best elements from their older games and improving upon them in this one.",
+      "full_review_url": "https://twinfinite.net/2022/02/elden-ring-review"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Wccftech",
+      "score": 100,
+      "quote": "Elden Ring is not only the best action RPG developed by From Software but one of the best open-world titles ever made. A masterclass of game design, Elden Ring isn't just a game but an epic dark fantasy journey that no one will be able to forget for a very long time.",
+      "full_review_url": "https://wccftech.com/review/elden-ring-make-way-for-the-elden-lord/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "We Got This Covered",
+      "score": 100,
+      "quote": "Elden Ring is a marvel with scope and diversity of mind-boggling proportions. At the risk of hyperbole, it has dethroned Bloodborne as my favorite game of all time. It's all I've been able to think about since I got my hands on it, and the only thing I want to do now is play it with the rest of you.",
+      "full_review_url": "https://wegotthiscovered.com/gaming/elden-ring-review-pc/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "WellPlayed",
+      "score": 100,
+      "quote": "Backed by an incredible and rewarding open-world design, Elden Ring is a masterclass in every facet that it brings to the table. Without a doubt, this is FromSoftware’s magnum opus.",
+      "full_review_url": "https://www.well-played.com.au/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "PCGamesN",
+      "score": 100,
+      "quote": "A supercut of FromSoft's very best work, transported to a totally new space. Elden Ring is not only a masterpiece by its developer's lofty standards, but in packing so much density into the Lands Between, it lights the path ahead for open-world games in general.",
+      "full_review_url": "https://www.pcgamesn.com/elden-ring/review-pc"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Game Informer",
+      "score": 100,
+      "quote": "Elden Ring challenged me, captivated me, and enchanted me, an unyielding deluge of discovery and artistic vision unbound. Elden Ring represents a truly amazing combination of various game elements that all come together to create something fascinating, special, and unforgettable. Elden Ring isn’t just the best game this year; it’s one of the best games ever made.",
+      "full_review_url": "https://www.gameinformer.com/review/elden-ring/absolutely-astonishing-adventure"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "VG247",
+      "score": 100,
+      "quote": "What ultimately matters, however, is that Elden Ring succeeds at almost every goal it sets out to achieve. It’s the culmination of years of refinement of FromSoftware’s formula. Mechanically, and thematically, this is a game making a statement: that you can buck industry tendencies even as you adopt their trends.",
+      "full_review_url": "https://www.vg247.com/elden-ring-review-pc"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "NME",
+      "score": 100,
+      "quote": "FromSoftware’s most ambitious title yet, Elden Ring is a glowing spectacle of achievement. A refined open-world format adds unimagined wonder to the game, whilst legacy dungeons will likely go down as some of FromSoftware’s best level design. Beyond that, there are so many improvements to the Souls formula that make this an essential play for fans – this is a game that brings so much to the table, yet somehow leaves nothing out.",
+      "full_review_url": "https://www.nme.com/reviews/game-reviews/elden-ring-review-miyazakis-masterpiece-exceeds-every-expectation-3166056"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "IGN",
+      "score": 100,
+      "quote": "Elden Ring is a massive iteration on what FromSoftware began with the Souls series, bringing its relentlessly challenging combat to an incredible open world that gives us the freedom to choose our own path.",
+      "full_review_url": "https://www.ign.com/articles/elden-ring-review"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "PC Invasion",
+      "score": 100,
+      "quote": "Elden Ring is a spectacle and a marvel to behold. Although there are some issues, the overall experience remains deeply engaging. It's one of the best open-world games I have ever played.",
+      "full_review_url": "https://www.pcinvasion.com/elden-ring-review-pc/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "M3",
+      "score": 100,
+      "quote": "There is no way around it; Elden Ring is a masterpiece. From Software's iconic gameplay, set in a vast and wonderful world, sucks us right in and never lets go. Even though the hand-holding is close to zero, Elden Ring will surely attract new players due to its more forgiving openness. A must play.",
+      "full_review_url": "https://m3.idg.se/2.1022/1.752287/elden-ring"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 24, 2022",
+      "publication": "PC Games",
+      "score": 100,
+      "quote": "Elden Ring absolutely manages to deliver on what was promised, and is, despite some minor annoyances, one of the finest gaming experiences I’ve had in years. That’s not only due to the rock-solid gameplay foundation, with its flexible class system, versatile weapons and progression mechanics. It’s also not only because of the morbid, dense atmosphere and the mysterious, captivating setting. It isn’t even solely the open world, which makes me want to spend every spare second exploring it with its gorgeous, monumental vistas and densely packed locations. Instead, the masterful combination of all these great qualities is what really makes Elden Ring special. Yes, the game has stopped me in my tracks multiple times, forcing me to leave bosses and places for later due to the somewhat slower progression system. But every time it does, it offers up dozens of other locations to test my mettle, become stronger and more skilled. And this cycle of trial and triumph is so immensely engaging that it’s going to keep me entertained for months to come.",
+      "full_review_url": "https://www.pcgames.de/Elden-Ring-Spiel-67687/Tests/Test-Wertung-Fazit-Video-Gameplay-1389875/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Mar 2, 2022",
+      "publication": "GameGrin",
+      "score": 100,
+      "quote": "ELDEN RING is the most accessible entry to a FromSoftware title to date, with plenty of things to explore, do, and enjoy. Those even mildly interested by the premise should give it a shot.",
+      "full_review_url": "https://www.gamegrin.com/reviews/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Mar 5, 2022",
+      "publication": "GameSkinny",
+      "score": 100,
+      "quote": "Almost nothing compares to Elden Ring in quality and depth. This is a game everyone should try at least once if only to get lost in the Lands Between.",
+      "full_review_url": "https://www.gameskinny.com/fci30/elden-ring-review-simply-wondrous"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Mar 14, 2022",
+      "publication": "GameWatcher",
+      "score": 100,
+      "quote": "Elden Ring is a walking example of a 10 out of 10 game that isn’t perfect. No game can be perfect but there is just so much in here to love that it becomes hard to pay attention to its mistakes. Every handful of hours had the game open up more and, every time, I was desperate to keep searching, exploring, conquering. Now, over 100 hours later and two playthroughs, all I want is to discover more of what Elden Ring has in store for me. This isn’t just one of the best From Software titles but one of the best games I’ve ever played and I would be shocked if this didn’t have reverberations on the entire games industry.",
+      "full_review_url": "https://www.gamewatcher.com/reviews/elden-ring-review/13326"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Mar 9, 2022",
+      "publication": "RPG Fan",
+      "score": 99,
+      "quote": "It’s been my sincerest pleasure experiencing FromSoftware’s latest work. Elden Ring is a landmark title that I hope shapes the future of what this industry can do; maybe we can one day point at this time in 2022 and note that this is when gaming took a giant leap. At risk of “laying it on thick” and coming off as hyperbolic, in my more than 30 years of gaming, I have almost never played a title that so neared perfection. I’ve devoted 80 blissful hours to Elden Ring, and at no point was I not enjoying myself or captivated by this world. My wish is that this team continues to receive the support it deserves and graces us with more opportunities to lose ourselves in the fantastic.",
+      "full_review_url": "https://www.rpgfan.com/review/elden-ring/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Gamersky",
+      "score": 98,
+      "quote": "Elden Ring is built upon a huge epic world and it is by farther best game in the Soul series in terms of map extensiveness and operability of battle system. More than just the worthiest successor of the Soul series, this game has broken free from the past shortcomings and constraints of the series and comes as an unparalleled master piece. It is a very enjoyable journey venturing into this world rich in details and full of challenges worth exploring.",
+      "full_review_url": "https://www.gamersky.com/review/202202/1462432.shtml"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "The Games Machine",
+      "score": 97,
+      "quote": "Elden Ring is the culmination of 15 years of work that have allowed From Software to improve, title after title, those consolidated foundations that have already given life to some of the most acclaimed games of all time, united by compelling stories and unparalleled gameplay.",
+      "full_review_url": "https://www.thegamesmachine.it/elden-ring-pc-ps4-ps4-xbox-one-series-x-s/elden-ring-recensione/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Mar 1, 2022",
+      "publication": "AusGamers",
+      "score": 95,
+      "quote": "Elden Ring is among my favourite games ever. Those frame hitches, while significant, marred mere moments in my playtime with From's masterpiece. I played 95 hours of Elden Ring, and I could have played oh-so-much more. I will, probably. I railroaded myself with my weapon choice, but I found dozens of amazing looking spells that I'd love to try out. And I can't PVP at level 150, so I'll need to start a new character if I want to invade people. And there are two other endings that I didn't achieve — you aren't thrust immediately into NG+ in Elden Ring once you achieve an ending, but I don't think you can achieve other endings later. I already kind of know how to do them, I think. Well, I think I know, anyway. But I don't know what I don't know, so…",
+      "full_review_url": "https://www.ausgamers.com/games/elden-ring/review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Checkpoint Gaming",
+      "score": 95,
+      "quote": "The hype behind Elden Ring was always going to be a challenge to match, yet the game succeeds in almost every way. This detailed and exciting world is full of wondrous moments and brutal fights as the excellent Souls gameplay finds itself being utilised in a freshly open-world format. The variety of ways you can approach combat and the sheer volume of viable tools you can use to take down gruesome and frightening foes makes for an experience that never gets old. A game unwavering in its vision, Elden Ring stands out as a monumental 2022 release.",
+      "full_review_url": "https://checkpointgaming.net/reviews/2022/02/elden-ring-review-a-song-of-slice-and-ire"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "GameByte",
+      "score": 95,
+      "quote": "If Dark Souls was the earthquake, Elden Ring is the aftershock. In a sense, it’s more of a love letter to the Soulsborne fanbase, incorporating dramatic fragments of each past game into a single product that is rewarding and fulfilling. While not perfect, I believe that FromSoftware has followed through on the hype surrounding this game and been able to create something truly mesmerising.",
+      "full_review_url": "https://www.gamebyte.com/reviews/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 28, 2022",
+      "publication": "Stevivor",
+      "score": 95,
+      "quote": "Overall, Elden Ring is slightly held back by some lacking information in the UI, the uneven nature of the difficulty towards the endgame, and the inconsistent performance on the PC platform. Despite this, it's an incredible experience and will be one of the best games you’ll play this year.",
+      "full_review_url": "https://stevivor.com/reviews/elden-ring-review-fromsoftwares-next-triumph/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Easy Allies",
+      "score": 95,
+      "quote": "Any new From Software game comes with a lot of expectations, and Elden Ring delivers. It's a thrilling adventure that provides a wonderful sense of discovery through an expertly crafted world, seamlessly incorporating the excellent combat and encounters the studio is known for. The level of difficulty may be off-putting for some, but Elden Ring is so fantastic that it's absolutely worth fighting through to the end.",
+      "full_review_url": "https://easyallies.com/#!/review/elden-ring"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 24, 2022",
+      "publication": "LevelUp",
+      "score": 95,
+      "quote": "Elden Ring is everything we dream of and much more. It is the natural evolution of a franchise that has captivated several generations and is now ready to capture many more. Elden Ring will be the most talked about game of the next decade. It's proof that FromSoftware is a master of its craft and a testament that it dominates the genre it has created. Those who try to do something similar will remain mere imitators: they will never reach the level of sophistication achieved in Elden Ring.",
+      "full_review_url": "https://www.levelup.com/PC/juegos/530625/ELDEN-RING/review"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Mar 4, 2022",
+      "publication": "Gamers Heroes",
+      "score": 95,
+      "quote": "While no one wants to call Game of the Year in March, Elden Ring stands at the top of a very tall hill. If you play one game this year, make it Elden Ring.",
+      "full_review_url": "https://www.gamersheroes.com/honest-game-reviews/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Mar 8, 2022",
+      "publication": "Game Over Online",
+      "score": 95,
+      "quote": "Dark Souls fans rejoice! Elden Ring is exactly the game you have been hoping it would be, I think, and it is created in grand style. I feel pretty frustrated that the keyboard controls are either so broken or so poorly laid out that I just couldn’t figure them out, and I spent a lot of time trying to (and where some things lie in the menu system are crazy counterintuitive), and I installed it on two different machines to see if it was a hardware problem (note: didn’t help). Elden Ring actually made me want to go back and play Skyrim again, because it always seemed to me that GUI was very well laid out and just made sense. But for you gamepad guys, sharpen up your sword and get in there. You have blood to spill (a lot of which may be your own).",
+      "full_review_url": "http://www.game-over.com/content/2022/03/elden-ring/#sthash.SW9Hf18O.dpbs"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Mar 13, 2022",
+      "publication": "Merlin'in Kazanı (Turkey)",
+      "score": 95,
+      "quote": "Despite some technical glitches, Elden Ring has managed to be a satisfying, surprising and fully-experienced game.",
+      "full_review_url": "http://www.merlininkazani.com/Elden_Ring-oyun_inceleme-119982p1.html"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Mar 16, 2022",
+      "publication": "MMORPG.com",
+      "score": 95,
+      "quote": "You will enjoy this game if you can stomach the abuse that Elden Ring dishes out. Even if you cannot, there is so much out there that you can do if you aren't afraid of running from scary fights. Some locations can be less fun than others, and some bosses create skill-based stopgaps. Elden Ring is all about picking yourself up, dusting yourself off, and sometimes finding something more enjoyable to do. It's worth the investment.",
+      "full_review_url": "https://www.mmorpg.com/reviews/the-rpg-files-elden-ring-review-2000124563"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Apr 11, 2022",
+      "publication": "KeenGamer",
+      "score": 95,
+      "quote": "Every once in a while, a game comes around that takes the world by storm, becoming an instant classic. Not only is Elden Ring one such game, it is also one of the most profound among them. FromSoftware’s first foray into the open world genre is nothing short of breathtaking. It effortlessly balances exploration and tough-as-nails action gameplay in a way that has seldom been seen before. While not entirely flawless, it manages to instill a sense of wonder that will make even the most hardened of players feel like a kid again. Although it stumbles, Elden Ring is still leaps and bounds ahead of the competition.",
+      "full_review_url": "https://www.keengamer.com/articles/reviews/pc-reviews/elden-ring-review-the-flame-of-ambition-pc/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Multiplayer.it",
+      "score": 94,
+      "quote": "An extraordinary sum of the knowledge From Software gained during the years. A bona fide peak of the soulslike genre, enormous and brutal, and capable of magnifying both the bad aspects of the genre and the good ones. The great parts greatly obscure the bad ones though, making for a game that will be talked about for a long time.",
+      "full_review_url": "https://multiplayer.it/recensioni/elden-ring-recensione.html"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 28, 2022",
+      "publication": "IGN Italia",
+      "score": 93,
+      "quote": "Elden Ring is an incredible game that takes the \"soulslike\" formula and declines it within a vast and dense world full of elements arranged with extreme care. It is a demanding experience, which requires the player's focus and a high desire to explore and experiment: it gives the best of itself when the player is ready to explore the huge Lands Between. Its world design has made the structures of the previous soulslike games obsolete. Simply a new milestone for its genre.",
+      "full_review_url": "https://it.ign.com/elden-ring/190950/review/elden-ring-la-recensione"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "SpazioGames",
+      "score": 93,
+      "quote": "Elden Ring is a superb take on the soulslike genre, an astonishing evolution and a decisive step forward for From Software's scale of ambition. Elden Ring is a dream come true for every fan of Miyazaki's works.",
+      "full_review_url": "https://www.spaziogames.it/elden-ring-recensione/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Mar 28, 2022",
+      "publication": "Hooked Gamers",
+      "score": 93,
+      "quote": "I can't say if Elden Ring will be something genuinely new or more of the same to players who have already battled through the other From Software titles, but playing it felt to me like something I haven't experienced before. I was incredibly stressed, I considered quitting out of frustration several times, but I never stopped having fun and wanting to play just a little bit longer.",
+      "full_review_url": "https://www.hookedgamers.com/pc/elden_ring/review/article-2312.html"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 28, 2022",
+      "publication": "Everyeye.it",
+      "score": 92,
+      "quote": "Elden Ring is the sum of FromSoftware's experience, poetics and playful approach: a title in which the undisputed skills of the team converge and explode.",
+      "full_review_url": "https://www.everyeye.it/articoli/recensione-elden-ring-finale-gioco-migliore-fromsoftware-56584.html"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Apr 13, 2022",
+      "publication": "Ragequit.gr",
+      "score": 92,
+      "quote": "FromSoftware has opened up metaphorically and its bet has paid off. Elden Ring is a solid contender for Game of the Year 2022 despite any technical issues it may have.",
+      "full_review_url": "https://ragequit.gr/en/reviews/item/elden-ring-pc-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "GameStar",
+      "score": 91,
+      "quote": "The world of the Elden Ring is full of surprises and hard-fought battles with new, imaginative possibilities, to make every choice meaningful.",
+      "full_review_url": "https://www.gamestar.de/artikel/elden-ring-test,3378168.html"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "But Why Tho?",
+      "score": 90,
+      "quote": "Elden Ring is an absolute triumph that will surely please all of the many players eager to get their hands on it.",
+      "full_review_url": "https://butwhythopodcast.com/2022/02/23/elden-ring-pc-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "ComicBook",
+      "score": 90,
+      "quote": "Elden Ring isn't a perfect FromSoftware game, but it's a remarkable evolution of nearly everything people loved or detested about the developer's past works. It's found what feels like an agreeable balance between accommodating newcomers and alleviating frustrations while maintaining the signature difficulty expected from the studio.",
+      "full_review_url": "https://comicbook.com/gaming/news/elden-ring-review"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "IGN France",
+      "score": 90,
+      "quote": "Elden Ring is the apex of the Soulsborne formula, but if you thought this instance will be easier to play and to beat, you’ll have to put your foolish ambitions to rest. The adventure in the Land-Between open world is a work of art and definitely unforgettable.",
+      "full_review_url": "https://fr.ign.com/elden-ring/58475/review/test-elden-ring"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "MGG",
+      "score": 90,
+      "quote": "Elden Ring manages to take everything that makes Dark Souls games stand out, and then apply it on a much larger scale, in a huge and complex world. The exploration and combat are rich, challenging and satisfying, and there's a constant sense of new things to discover everywhere. But many shortcuts have been taken. The game has some flaws and technical limitations, such as shaky multiplayer and a sometimes frustrating camera. Without being an absolute revolution, Elden Ring offers a unique vision of open world gaming, and it stands as a new model of the genre.",
+      "full_review_url": "https://www.millenium.org/test/386236.html"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Shacknews",
+      "score": 90,
+      "quote": "Simply put, Elden Ring is Miyazaki and FromSoftware’s magnum opus. It feels like the vision for the genre has reached its final form. Elden Ring is a meticulously crafted game, with a world begging to be explored and experienced. It is truly mesmerizing in its scope, an astonishing success and everything I had hoped it would be. Forget what you knew about the genre, the real Soulsborne starts here, with Elden Ring.",
+      "full_review_url": "https://www.shacknews.com/article/128948/elden-ring-review-the-transcended-soul"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Trusted Reviews",
+      "score": 90,
+      "quote": "Elden Ring is a fantastic RPG for any hardcore gamer looking for a new world to explore. Combat is weighty and takes place in a wonderfully intriguing world full of dungeons to explore and monsters to battle. The only downside is that its high difficulty will be a stumbling block that will continue to put some players off, despite the improved accessibility that comes with the open-world format.",
+      "full_review_url": "https://www.trustedreviews.com/reviews/elden-ring"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "PC Gamer",
+      "score": 90,
+      "quote": "An open world action RPG from FromSoftware that reaches new heights, but spends too much time in the familiar.",
+      "full_review_url": "https://www.pcgamer.com/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Jeuxvideo.com",
+      "score": 90,
+      "quote": "With its new open-world dimension, Elden Ring brilliantly fleshes out FromSoftware's already highly effective formula and offers Souls a spiritual sequel that is both ambitious and accessible. All the new features converge towards this last objective: the open world allows you to arm yourself more than ever with the epic and obligatory fights that the adventure reserves, without having the impression of walking around just to farm. And the best part is that it doesn't compromise the sense of accomplishment so important to the genre. Elden Ring is a complete, mysterious experience, where curiosity is tirelessly renewed by the feeling of discovering something for the first time. All with a sumptuous artistic direction, which makes you want to get lost, to explore. The title also welcomes new features that offer strategic choices in combat, without betraying their requirement. We only regret a slight lack of ambition for certain Legacy Dungeons, as well as the recycling of some assets and bosses. Overall, an exceptional title.",
+      "full_review_url": "https://www.jeuxvideo.com/test/1534784/elden-ring-un-dark-souls-plus-ambitieux-que-jamais.htm"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "IGN Portugal",
+      "score": 90,
+      "quote": "With Elden Ring, FromSoftware adds new ingredients to the Dark Souls formula, creating a world that is an absolute masterpiece. Combat remains as fluid as we’re used to, providing us with even more tools to master and ignite our sadomasochistic tendencies. The game's plot is often impenetrable and requires a tremendous investment to decipher it, but they payoff is there, if have the time and soul to endure it.",
+      "full_review_url": "https://pt.ign.com/elden-ring/109163/review/elden-ring-analise "
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "GamingBolt",
+      "score": 90,
+      "quote": "FromSoftware returns with all of its traditional offerings in Elden Ring, but the real star of the show is its exceptional open world.",
+      "full_review_url": "https://gamingbolt.com/elden-ring-review-come-lets-die-all-over-again"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "RPG Site",
+      "score": 90,
+      "quote": "After having finished my first playthrough of Elden Ring. I immediately want to play it again. I have never experienced that with an open-world game before - usually, I find myself thankful such behemoth games are over. FromSoftware has managed to nimbly incorporate its deliberate and challenging action RPG gameplay into an open world with a huge sense of freedom. The fact that they accomplished this feat without compromising on difficulty or narrative is a true marvel. Managing to also avoid almost all of the pitfalls of conventional open-world design is a step beyond even that. Even if you're fatigued over the familiar trappings of dark fantasy soulslike games in particular, Elden Ring is a masterful refinement of the formula that is the current zenith of its form - and it deserves glowing recognition.",
+      "full_review_url": "https://www.rpgsite.net/review/12424-elden-ring-review"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 24, 2022",
+      "publication": "GameSpace",
+      "score": 90,
+      "quote": "A gorgeous and wonderful open world adventure full of discovery, magic, and the same threat that exemplifies FromSoftware's Souls series. Elden Ring is more than another Dark Souls Game, mixing a natural evolution of the series with an open world concept and a greater level of accessibility for those that want to experience the infamous You Died screen.",
+      "full_review_url": "https://www.gamespace.com/all-articles/news/elden-ring-review-a-breathtaking-adventure/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Apr 14, 2022",
+      "publication": "RPGamer",
+      "score": 90,
+      "quote": "It’s hard to review Elden Ring without being comparative; that’s because Elden Ring is an evolutionary step, not a revolutionary one, and one can’t help but see how it’s built on what came before. Here is a massive undertaking of a game, not for the sake of chasing trends but as the natural progression of the style the company has been fostering for over a decade. It’s amazing how smoothly the transition to open world was and how much of the Souls identity is still present. In the short time since its release, it has already left a cultural mark, no doubt a result of the game’s increased approachability. Even after sifting past all the hype and grandiosity, there’s still an excellent game left and Elden Ring is a clear showcase of FromSoftware’s outstanding expertise in the field. Elden Ring really is just that good.",
+      "full_review_url": "https://rpgamer.com/review/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Apr 28, 2022",
+      "publication": "Riot Pixels",
+      "score": 82,
+      "quote": "Elden Ring is massive, sometimes to its detriment. A thorough walkthrough might take up more than 100 hours to complete, and at some point it becomes clear that From Software did not have enough manpower to produce that much unique content. Still, it remains incredibly addictive even after those 100 hours pass…",
+      "full_review_url": "https://riotpixels.com/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "ZTGD",
+      "score": 80,
+      "quote": "While the technical issues of the barebones PC port and the familiar trappings of the open world formula substantially soured my experience, Elden Ring is still an impressive achievement of fusing compelling world design, exploration and combat.",
+      "full_review_url": "https://ztgd.com/reviews/elden-ring-pc/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Digital Trends",
+      "score": 80,
+      "quote": "Elden Ring is a new gold standard for open-world game design, dishing out some of the best freeform exploration since The Legend of Zelda: Breath of the Wild. Curiosity is rewarded at every turn and secrets truly feel secret. For Souls veterans, the number of tools available adds a new level of depth to its combat that makes constant experimentation worthwhile. Even with those strengths, it’s hard to outright ignore the ugly quirks in FromSoftware’s games, which stick out even more on new tech. A stubbornness to fix archaic issues holds back what should be a once-in-a-generation game, but Elden Ring is still a landmark accomplishment in any case.",
+      "full_review_url": "https://www.digitaltrends.com/game-reviews/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 28, 2022",
+      "publication": "Siliconera",
+      "score": 70,
+      "quote": "Elden Ring is a potentially great game that is hindered by massive performance issues. It doesn’t do anything particularly genre-defining, as it mostly sticks to what FromSoftware always does. It will no doubt please fans of the Dark Souls series. But its lack of accessibility options and somewhat restrictive multiplayer may leave some wanting. Ultimately, I think it will potentially offer a better experience down the line, as the day-one patch has already changed some fundamentals of the game. With no real improvement regarding its performance on PC, Elden Ring is a hard game to recommend until a more stable version is available.",
+      "full_review_url": "https://www.siliconera.com/review-elden-ring-is-promising-but-held-back-by-its-pc-performance/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Mar 3, 2022",
+      "publication": "PCMag",
+      "score": 70,
+      "quote": "Elden Ring is a wonderful action-RPG that features thrilling combat, an amazing open world, and tons of replay value. Unfortunately, its PC performance needs work.",
+      "full_review_url": "https://www.pcmag.com/reviews/elden-ring-for-pc"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Aug 29, 2022",
+      "publication": "Cubed3",
+      "score": 70,
+      "quote": "Elden Ring is an experience that will not be forgotten in a hurry. It's a tremendous, hulking, massive achievement but because it is tremendous, hulking and massive, it is one that comes with many caveats. The shelves in CeX and conversations with people who stopped playing at Stormveil castle can certainly attest to some of those caveats. Much like any FromSoftware title, it's not going to be for everybody, but paradoxically it is one of their hardest and one of their most accessible to date. It offers huge value in one package, and perhaps is a little too much value, only becoming clearer when nearing the endgame. Don't be mistaken by the criticism, though. This is a phenomenal achievement with a moment-to-moment that is incredibly engaging and immersive. No doubt it will be deserving of the end-of-year accolades it will inevitably receive. One pushes through Elden Ring as one pushes through life, with all the highs and the lows that it brings.",
+      "full_review_url": "http://www.cubed3.com/review/6703/1/elden-ring-pc.html"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Rock, Paper, Shotgun",
+      "score": null,
+      "quote": "That's the thing about Elden Ring, its open world has your back, in its own - often painful - way. Souls has always been about inching through claustrophobic corridors and bashing your skull against whatever's in the way. You compare foreheads with friends, \"Look at this bruise Barry, that's me five hours in\". And Barry would probably peel his hair back and reveal the exact same bruise. Adventures in past Souls games tend to line up, as you're all wandering down the same pathways. But that's not the case with Elden Ring. You might show your bruise to Barry and he'll peel his hair back to reveal a scar or a massive indent or a tattoo of a mouse tustling with a skeleton. Both of may be five hours in but you'll be on totally different trajectories. No matter how hostile the game's world may be, it pushes you to succeed and carve out your own adventures. It is, by far, the most encouraging Souls yet. [RPS Bestest Bests]",
+      "full_review_url": "https://www.rockpapershotgun.com/elden-ring-review"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "The Verge",
+      "score": null,
+      "quote": "While this is probably the most accessible game the studio has made, it’s still incredibly demanding. It remains hard as hell, but now you have more options for dealing with the frustrating moments. And not only does it demand your focus and attention in a way few other games do, but now, because it’s so large, it demands much of your time as well. After 40 hours of exploring, I don’t think I’m even close to finishing the game; sometimes, it feels like I’m just getting started. Elden Ring isn’t a game you pop on for an hour a night. It’s a game that consumes you. For me, it’s becoming a lifestyle, something I still think about when I set the controller down.",
+      "full_review_url": "https://www.theverge.com/2022/2/23/22946279/elden-ring-review-ps5-xbox-pc"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "pc",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Vice",
+      "score": null,
+      "quote": "Twenty-five hours in, I still have no idea what I’ll see next. It's a testament to Elden Ring that I'm so excited at the possibilities that remain, but it's also a problem that after all this time, I feel like it needs to show me more than it has so far.",
+      "full_review_url": "https://www.vice.com/en/article/qjbxdm/elden-ring-review"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-4",
+      "review_type": "critic",
+      "date": "Oct 19, 2022",
+      "publication": "Game World Navigator Magazine",
+      "score": 90,
+      "quote": "No matter how many studios try to replicate the formula, From Software is the only one that can deliver authentic Souls experience. \n[Issue#259, p.36]",
+      "full_review_url": ""
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Areajugones",
+      "score": 100,
+      "quote": "Elden Ring is the real next step for souls-like standards. It is unlike anything FromSoftware has created before, displaying an uncanny world that will keep on wowing players even as they pile up more and more hours of gameplay. Elden Ring is, thus, a prime candidate to become the 2022 GOTY.",
+      "full_review_url": "https://areajugones.sport.es/videojuegos/analisis-elden-ring-la-mesa-redonda-tiene-nuevo-rey-arturo/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "CD-Action",
+      "score": 100,
+      "quote": "Elden Ring is a crowning achievement of over a decade of Miyazaki’s and FromSoftware’s work, and an amazing example of how to find a whole new level of fun in a well-known and somewhat worn-out formula. The open world turned out to be a perfect fit for the genre and you can still tell this masterpiece was created by the famous Japanese studio. I honestly haven’t been so excited about a game since the first Dark Souls.",
+      "full_review_url": "https://cdaction.pl/recenzje/recenzja-elden-ring-to-nie-jest-dark-souls-iv-to-cos-znacznie-wiecej"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Cultured Vultures",
+      "score": 100,
+      "quote": "An uncompromising vision of wonder and terror, Elden Ring is the ultimate dark fantasy odyssey.",
+      "full_review_url": "https://culturedvultures.com/elden-ring-ps5-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Destructoid",
+      "score": 100,
+      "quote": "As an experience, it's one of the most wondrous and open-ended games I've played in years.",
+      "full_review_url": "https://www.destructoid.com/reviews/review-elden-ring/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Game Revolution",
+      "score": 100,
+      "quote": "Elden Ring is a tour de force and is maybe the only example of a studio underselling a title. It's an M-rated Breath of the Wild, full of secrets, intrigue, and an enthralling world to explore. It's a game that makes me excited about gaming, and it's fantastic to see a highly anticipated title like this turn out so well.",
+      "full_review_url": "https://www.gamerevolution.com/review/702562-elden-ring-review-worth-buying-playing-ps4-ps5-pc-xbox-one-series-x-s"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "GameMAG",
+      "score": 100,
+      "quote": "Elden Ring is the true triumph that FromSoftware was striving for all those years. Complete and utter triumph.",
+      "full_review_url": "https://gamemag.ru/reviews/elden-ring-review-ps5"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Gamer.no",
+      "score": 100,
+      "quote": "Elden Ring is the culmination of everything Dark Souls brought before it, mixed with a fresh take on the open world genre that leaves no hand held with minimal boring sequences or clogged quest logs. Despite a few growing pains and the real fun beginning a few hours in, Elden Ring is what every game in its genre should strive to be; a challenging, mysterious adventure that never ceases to amaze, only getting better the more time you spend in its dark, yet absolutely beautiful world.",
+      "full_review_url": "https://www.gamer.no/artikler/slik-ser-et-mesterverk-ut/514614"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "GamesBeat",
+      "score": 100,
+      "quote": "I'm joyfully exploring every inch of the land and delighting in my discoveries, and I don't see myself stopping any time soon.",
+      "full_review_url": "https://venturebeat.com/2022/02/23/elden-ring-is-a-brilliant-monument-to-fromsoftwares-legacy/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "GamesHub",
+      "score": 100,
+      "quote": "Elden Ring is an exceptional, accomplished work that realises a fantasy world of solemnity, beauty, and menacing uncertainty you can’t help but lose yourself in.",
+      "full_review_url": "https://www.gameshub.com/news/reviews/elden-ring-review-ps5-13634/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "GameSpew",
+      "score": 100,
+      "quote": "Combining the deep and challenging combat FromSoftware is known for with a vast and varied world that's always a pleasure to explore, Elden Ring is quite simply incredible. From the moment you step foot into The Lands Between you'll be engrossed, and while you'll no doubt experience some setbacks on your adventure – such as a boss that at first seems impossible to defeat – there's always somewhere else to go to cool off, pick yourself up, and perhaps power yourself up before returning to have another go. That is to say, you don't just play Elden Ring; you live in its world for hours at a time. It will consume you, but you'll willingly throw yourself into its maw with fervour.",
+      "full_review_url": "https://www.gamespew.com/2022/02/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Gaming Nexus",
+      "score": 100,
+      "quote": "FromSoftware effortlessly immerses you into the beautiful world of The Lands Between, with challenging enemies, secret treasures, and deep lore tucked away into every corner. This is, without a doubt, FromSoftware's best project yet, showcasing a culmination of all their previous games.",
+      "full_review_url": "https://www.gamingnexus.com/Article/7533/Elden-Ring/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "GAMINGbible",
+      "score": 100,
+      "quote": "Elden Ring is a constantly surprising adventure that has taken FromSoftware’s tried-and-tested formula to delirious new heights. One of the best video games of the last decade, and an absolutely essential release, Elden Ring  really does confirm that 2022 is off to an incredible start.",
+      "full_review_url": "https://www.gamingbible.co.uk/reviews/elden-ring-review-fromsoftwares-latest-is-a-modern-masterpiece-20220222"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "God is a Geek",
+      "score": 100,
+      "quote": "Deep, wide, and absolutely packed with adventure, Elden Ring's immense, deadly open world is nothing short of game-changing.",
+      "full_review_url": "https://www.godisageek.com/reviews/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Guardian",
+      "score": 100,
+      "quote": "An unrivalled feat of design and inventiveness.",
+      "full_review_url": "https://www.theguardian.com/games/2022/feb/23/elden-ring-review-an-unrivalled-masterpiece-of-design-and-inventiveness"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Screen Rant",
+      "score": 100,
+      "quote": "Elden Ring is exactly what fans want it to be, and it very likely will become many people's favorite FromSoftware title yet.",
+      "full_review_url": "https://screenrant.com/elden-ring-game-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "SECTOR.sk",
+      "score": 100,
+      "quote": "Elden Ring is the embodiment of From Software’s best work yet. Top-notch quality of another huge soulslike adventure persists, especially in the cryptically epic story co-written by George R. R. Martin and in the ingeniously vast and visually stunning world of Lands Between that sets the new standard for open world games. And of course, you can expect a lot of dying, rolling, and rage-quitting. Elden Ring is a must play for every fan, but it also makes so many good steps towards accessibility for a greater audience.",
+      "full_review_url": "https://www.sector.sk/recenzia/37867/elden-ring.htm"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 2, 2022",
+      "publication": "The Loadout",
+      "score": 100,
+      "quote": "Elden Ring packs its intricately crafted world - a world which should be used as a reference point for open-world design moving forward - with more impressive boss fights and secrets than you can shake a giant greatsword at. Although its punishing combat system may not be to everyone’s taste, it is an essential experience both for FromSoftware newcomers and seasoned veterans alike.",
+      "full_review_url": "https://www.theloadout.com/elden-ring/review-ps5"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 1, 2022",
+      "publication": "TrueGaming",
+      "score": 100,
+      "quote": "Elden Ring sets a new standard in Open world games and it takes us to new horizons that has us excited for the future of Souls games.",
+      "full_review_url": "https://www.true-gaming.net/home/491098/elden-ring/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "VGC",
+      "score": 100,
+      "quote": "Elden Ring is a fantastic game that can still deliver the unmatched thrill of defeating a tough boss after an hours-long battle. Those who worship at the church of Souls-like will find a game that’s basically everything they ever wanted.",
+      "full_review_url": "https://www.videogameschronicle.com/review/elden-ring/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Digitally Downloaded",
+      "score": 100,
+      "quote": "With Elden Ring, we're in masterpiece territory. FromSoftware is consistently great, of course, and I don't mean to denigrate Sekiro or Dark Souls here, as they're all exceptional, but Elden Ring has all the potential to have a similar level of impact as Demon's Souls here. Spinning a richly evocative and carefully paced tale of darkness and misery, Elden Ring isn't the most easygoing game, either in terms of its storytelling or general difficulty. However, not only is it majestic in scope and vision, it is one of the most perfect examples of how an open world structure can be used to the thematic benefit of the game, rather than just be a massive space used to hurl worthless content at players. In this way, Elden Ring joins a very elite group indeed... and is has arguably topped it.",
+      "full_review_url": "http://www.digitallydownloaded.net/2022/02/review-elden-ring-sony-playstation-5.html"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "GamesRadar+",
+      "score": 100,
+      "quote": "Elden Ring is both a refinement and evolution of the Dark Souls formula, presenting an expansive world that's as hostile as it is inviting. Despite the occasional excess, suffering has never been as much fun as this.",
+      "full_review_url": "https://www.gamesradar.com/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "TheGamer",
+      "score": 100,
+      "quote": "FromSoftware doesn’t rewrite the medium’s rulebook, but does tear its own tenets asunder while reconstructing them into a cohesive whole that outclasses all that came before it. The Lands Between invites you to explore it with an unparalleled level of freedom, offering up a plate of seemingly impenetrable challenges and intimately constructed stories that are always a delight to indulge in. This is, without doubt, one of the best games in recent memory.",
+      "full_review_url": "https://www.thegamer.com/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Digital Chumps",
+      "score": 100,
+      "quote": "Elden Ring is a masterpiece. From its expertly crafted open-world design that rewards the player for taking the chance to explore to its riveting lore, FromSoftware has delivered what can only be described as a deliberate and thoughtful experience. While some of its visual stylings are starting to show its age already, Elden Ring’s gameplay is the result of years of fine-tuning to be as rewarding as it is challenging. Many wondered if FromSoftware could put the level of detail into an open world that they have with their previous games. They’ve achieved that, and so much more.",
+      "full_review_url": "https://digitalchumps.com/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Game Rant",
+      "score": 100,
+      "quote": "However, when judged on its own merits, Elden Ring is a phenomenal game that will disappoint very few. It has most of the components that fans of the genre seek: a wondrous aesthetic, a feeling of mystery that invites exploration, skillfully designed and intimidating adversaries, and rich gameplay with a lot of replayability thanks to the various classes and builds. In the end, Elden Ring is more than just an open-world Dark Souls. It is strong in its own right, with tweaks to the classic Souls blueprint that create a refreshing new experience that still feels familiar.",
+      "full_review_url": "https://gamerant.com/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Gaming Age",
+      "score": 100,
+      "quote": "I’ve absolutely enjoyed my time with Elden Ring, and while I’d say my expectations were high prior to playing the game, those expectations have certainly been met or even exceeded along my journey. It feels like a culmination of everything FromSoftware has accomplished in the genre so far, offering up a robust world with tons of exploration married to the unique combat we’ve come to expect from their previous titles. I can’t necessarily say that there’s enough changes here that will appeal to people who have bounced off of Souls games previously, but it’s such a great looking (and playing) game that I think if you enjoy action-RPG’s in the slightest that it’s still worth a shot. And of course if you’re already a FromSoftware fan, then I’d imagine you’re already on board, and I can safely say that you won’t be disappointed.",
+      "full_review_url": "https://gaming-age.com/2022/02/elden-ring-review-for-playstation-5-xbox-series-x-and-pc/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Atomix",
+      "score": 100,
+      "quote": "Elden Ring is not only the best game FromSoftware has released to date, but it's also one of the best open world games I've enjoyed in recent years. We are facing a title that manages to perfectly mix each of its elements, and the results really could not be better.",
+      "full_review_url": "https://atomix.vg/review-elden-ring/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Daily Star",
+      "score": 100,
+      "quote": "It’s lore always feels epic, but is ultimately hardcore fantasy nonsense and what’s going to keep you in Elden Ring for the long run is the amount to discover and the versatility and challenge at every turn. It has been equal parts a pleasure and hell to play Elden Ring. Because this is an amazing game and the developers have built a mind-boggling but nightmarish world to live and fight in. But it’s also one incredibly tough cookie from the off, and - casual gamers beware - you’ll have a lot of frustrating setbacks as you slowly progress as a warrior. Another wonderful video game for 2022. It’s already becoming a top year for consoles.",
+      "full_review_url": "https://www.dailystar.co.uk/tech/reviews/elden-ring-review-epic-open-26293520"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 24, 2022",
+      "publication": "IGN Japan",
+      "score": 100,
+      "quote": "While boasting an overwhelming amount of content, not once did the world of Elden Ring feel tedious. The game’s level design is simply astounding and its map is filled not with chores but with a magnificent sense of adventure. While the fundamentals of the battle mechanics are borrowed from Dark Souls, the speedier flow of action and additional freedom in customization of equipment, items and magic allow you to fight your own way. The story is more dramatic and easier to follow than in previous FromSoftware titles. This and many more features make Elden Ring a marvel of a game that could become a serious threat to the balance of your daily life.",
+      "full_review_url": "https://jp.ign.com/elden-ring/57995/review/elden-ring"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 24, 2022",
+      "publication": "Meristation",
+      "score": 100,
+      "quote": "An extraordinary milestone that will likely cast as long of a shadow over other open world games as Dark Souls already did over most action RPGs during the last decade.",
+      "full_review_url": "https://as.com/meristation/2022/02/24/analisis/1645718130_576442.html"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 25, 2022",
+      "publication": "Het Nieuwsblad",
+      "score": 100,
+      "quote": "A series so influential it becomes its own genre. That alone is FromSoft’s crowning achievement. For Elden Ring, the most recent iteration of that series, all superlatives fall short. This game is a timeless masterpiece that will go down in history as a milestone, not only for the genre and developer From Software, but for gaming as a whole.",
+      "full_review_url": "https://www.nieuwsblad.be/cnt/dmf20220224_96580392"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 28, 2022",
+      "publication": "IGN Spain",
+      "score": 100,
+      "quote": "Elden Ring is a superlative title, one of those works capable of becoming an event and becoming engraved in the collective imagination. It achieves this by remaining faithful to its formula and exporting its identity to the concept of the open world, achieving its own personal approach, resulting in a world that is visually stunning, and that works with overwhelming precision in terms of mechanics. An excellent videogame that also maintains the concreteness of its proposal.",
+      "full_review_url": "https://es.ign.com/elden-ring/179924/review/analisis-de-elden-ring-la-formula-souls-y-el-mundo-abierto-se-dan-la-mano-para-alcanzar-la-excelenci "
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 2, 2022",
+      "publication": "PlayStation Universe",
+      "score": 100,
+      "quote": "Elden Ring took the best parts of previous FromSoftware games and expanded them across a living open-world with endless discovery, excitement, and danger. It's not lost the edge of previous titles, but it is the most approachable FromSoftware game yet, and is an excellent point for players to jump in on if they've not tried previous titles. While its technical issues can be annoying, even they can't dampen the experience of playing Elden Ring. FromSoftware's latest is an artistic, innovative and cultural achievement like nothing before it.",
+      "full_review_url": "https://www.psu.com/reviews/elden-ring-review-ps5/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 3, 2022",
+      "publication": "New York Daily News",
+      "score": 100,
+      "quote": "It’s all terrifically done, especially when coupled with the story, which is full of mystery and plenty interesting. Elden Ring gets the little things right, too; the music that backs your journey is some of the best (and most well-utilized) in gaming. And every enemy feels distinct; you’ll face plenty of soldier-types, but the dragons and wildlife and the giant ogre-types that pepper certain lands inspire plenty of awe.",
+      "full_review_url": "https://www.nydailynews.com/entertainment/ny-elden-ring-video-game-review-20220301-lqyaxoni7rgenpx7dirwz77f3y-story.html"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 4, 2022",
+      "publication": "Telegraph",
+      "score": 100,
+      "quote": "Here, exploration is everything. Elden Ring is an RPG but one which elevates role playing to the point of vérité. You are as much the stranger in a strange land as your avatar; basic controls and some mechanics are explained in what passes for the game's tutorial, but that’s about it. There’s no quest log, no icon-studded mini-map, no on-screen overlays or bread crumb trail telling you what to do next, or even where to go. Everything else must be learned, either decoded from oblique item descriptions in-game or gleaned from invaluable internet communities. Death is not so much a setback to be avoided as a necessary staging post on the path to enlightenment. It may sound daunting in theory but in practice it’s exhilarating. Every inch of progress in Elden Ring feels earned, and is thus infinitely more rewarding for it.",
+      "full_review_url": "https://www.telegraph.co.uk/gaming/features/elden-ring-review-punishing-open-world-take-dark-souls-formula/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 4, 2022",
+      "publication": "PLAY! Zine",
+      "score": 100,
+      "quote": "Elden Ring is a masterclass in world design. It improves almost all of the bases of FromSoftware’s previous titles and adds upon them many new ones, with its verticality, astonishing world and great combat and story. It is a penultimate soulslike title, and one that will be surely played and remembered for years to come, putting a high bar for action RPGs and firmly sitting as one of the best video games ever.",
+      "full_review_url": "https://play.co.rs/2022/03/02/mijazaki-ponovo-jase-elden-ring-recenzija/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 6, 2022",
+      "publication": "Vgames",
+      "score": 100,
+      "quote": "I just wrote a 2800+ word review about a game that left me speechless. I cannot describe how smart, fun, surprising, engaging, challenging, rewarding and addicting Elden Ring is. This is not just another game - it's FromSoftware's Magnum Opus.",
+      "full_review_url": "https://www.vgames.co.il/article/28721.html"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 8, 2022",
+      "publication": "PlayStation Country",
+      "score": 100,
+      "quote": "Never before has such detail and passion been offered to the open world genre. Elden Ring is a masterclass of game design. From the massive, dense open world to the like-clockwork dance of combat, the amazing character design and seemingly unlimited gameplay choices. Each element of the game has been carefully crafted with love and purpose, making every little or large moment something worth discovering. Elden Ring is truly something special and this is going to be an incredibly tough act to follow for any open world game that comes after.",
+      "full_review_url": "https://www.playstationcountry.com/elden-ring-ps5-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 12, 2022",
+      "publication": "BaziCenter",
+      "score": 100,
+      "quote": "Solid gameplay, over the top world design, terrifying boss fights, eye catching visuals, deep combat mechanisms, endless possibilities, and many, many other things can be said about Elden Ring, but non of them can truly describe it for what it is. Elden Ring is out of this world, and you will have to play it.",
+      "full_review_url": "https://www.bazicenter.com/review/game/elden-ring-review/ "
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 18, 2022",
+      "publication": "Carole Quintaine",
+      "score": 100,
+      "quote": "Elden Ring is a game with a breathtaking universe, with crazy ambition. The effective gameplay coupled with the immense pleasure of exploration that is always rewarded are matched only by the fierce requirements of the game. More accessible than other FS productions, it offers the opportunity to discover a world of crazy elegance, with an artistic direction that is quite simply masterful. A generous world we no longer want to leave. An absolute masterpiece.",
+      "full_review_url": "http://carolequintaine.com/?p=48280&preview=true"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 22, 2022",
+      "publication": "GameCritics",
+      "score": 100,
+      "quote": "Whether Elden Ring is perfect is beside the point. What matters is that it’s the ultimate expression of a blueprint first laid out in Dark Souls. It’s made my favorite game of all time feel like a practice run.",
+      "full_review_url": "https://gamecritics.com/mike-suskie/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 24, 2022",
+      "publication": "Edge Magazine",
+      "score": 100,
+      "quote": "Not for the first time, a Miyazaki game has arrived and the landscape appears transformed. As you play, there is a sense of plates shifting beneath you, of the T&Cs of game development being hastily rewritten. We haven’t felt this way since “Breath of the Wild.” Here, as there, an open world means freedom and fresh air. [Issue#370, p.96]",
+      "full_review_url": ""
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Apr 18, 2022",
+      "publication": "The Enemy",
+      "score": 100,
+      "quote": "More than anything, we must always stress that, yes, the Lands Between — the open world, therefore — is the main highlight. In an era taken by mediocre open-world games, it's refreshing to see that a company new to this concept got it so precisely right. There's no doubt about it: this is, indeed, one of the best games of recent years. If you're a fan of Open Worlds, no matter what level of challenge you're used to, give it a go. The chances of regret are almost zero. We often think of FromSoftware games in extreme ways. I love it. I hate it. It's amazing. It's unbearable. Elden Ring does bump into these dualities, but tends to be much more attractive to the public in general.",
+      "full_review_url": "https://www.theenemy.com.br/social/criticas/review-elden-ring"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "May 13, 2022",
+      "publication": "Forbes",
+      "score": 100,
+      "quote": "Elden Ring is a stunning achievement from a literal video game architecture perspective, along with creating a difficult but not wildly punishing game that everyone, even non-Soulsborne devotees, should be able to enjoy. I have not been this impressed with an open world since Skyrim, and Elden Ring even surpasses that in many ways. It’s an easy game to recommend to anyone and everyone, and deserves the explosive sales success we’ve seen, dwarfing old FromSoft records. Elden Ring is a gaming achievement the likes of which we rarely seen, and you will be remiss to not pick it up and see what the hype is about for yourself.",
+      "full_review_url": "https://www.forbes.com/sites/paultassi/2022/05/12/elden-ring-review-ps5-game-of-the-generation-so-far/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "May 25, 2022",
+      "publication": "Slant Magazine",
+      "score": 100,
+      "quote": "Elden Ring is FromSoftware taming the monster they created, not by filing down its teeth and claws, but by giving players the weapons and armor to endure it.",
+      "full_review_url": "https://www.slantmagazine.com/games/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Jan 30, 2024",
+      "publication": "LEVEL (Czech Republic)",
+      "score": 100,
+      "quote": "Elden Ring is simply a game that the player naturally adapts to their own style of play. Challenging at times, vicious at others, but mostly incredibly fun. The enjoyable pace makes the hours of play pass by like water, and each path opens up a few more, only to come together again after a fair amount of exploration before the next big reveal. [Issue#318]",
+      "full_review_url": ""
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "COGconnected",
+      "score": 98,
+      "quote": "Elden Ring is an awe-inspiring achievement. Both a summary and bold step forward, it fuses FromSoftware's best and most effective ideas with an endlessly engaging open world. Its combat is the most refined of the series, challenging yet accessible to new players. Elden Ring includes an incredible amount of quality content. More importantly, it offers a captivating, polished experience fraught with danger and filled with beauty.",
+      "full_review_url": "https://cogconnected.com/review/elden-ring-review"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Hobby Consolas",
+      "score": 98,
+      "quote": "Instead of a new IP, Elden Ring feels like a swan song; the culmination of 13 years refining a genre. All the ideas and lessons of FromSoftware latest works converge inside the biggest, richest and exquisitely designed open world we've ever set foot on. It honestly feels like a game that won't be surpassed for years.",
+      "full_review_url": "https://www.hobbyconsolas.com/reviews/analisis-elden-ring-nuevo-juego-fromsoftware-creadores-dark-souls-george-rr-martin-1014227"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 14, 2022",
+      "publication": "XGN",
+      "score": 98,
+      "quote": "FromSoftware has delivered a masterpiece with Elden Ring. The developer has put every lesson they've learned in the past into the game and perfected every gameplay-element. Add to that an enormous and diverse open world, the ability to travel and fight on horseback and the fact that Elden Ring is still challenging, while being more welcoming to new players. It's an epic adventure that not a single gamer should miss out on.",
+      "full_review_url": "https://www.xgn.nl/review/elden-ring-review"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "MGG Spain",
+      "score": 97,
+      "quote": "Elden Ring has, from now on, a place of honor in the pantheon of the best video games in history. From Software needed 13 years to refine to the last detail its vision of a genre that has influenced the industry like few studios before and give us a totally overwhelming title both for its content and for the sense that has every last object and pixel of the Lands Between.",
+      "full_review_url": "https://www.millenium.gg/analisis/45551.html"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Impulsegamer",
+      "score": 96,
+      "quote": "A must play for action-RPG fans looking for deep combat systems and an expansive open-world that truly rewards exploration.",
+      "full_review_url": "https://www.impulsegamer.com/elden-ring-ps5-review-a-grace-study/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "App Trigger",
+      "score": 95,
+      "quote": "Elden Ring is the next evolution of the “Souls” genre. It feels both familiar and truly unique. Fans of previous “Souls” games will feel right at home, while appreciating the new features, mechanics and quality of life improvements the game has to offer.",
+      "full_review_url": "https://apptrigger.com/2022/02/23/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 1, 2022",
+      "publication": "GamingTrend",
+      "score": 95,
+      "quote": "Elden Ring is the culmination of all the Souls entries up to this point, creating a near perfect gameplay experience filled to the brim with incredible boss fights, gorgeous graphics, and an insanely large world to explore. A variety of new ideas, including crafting and the addition of the spirit horse Torrent, help bring a new level of immersion to the proceedings while simultaneously helping Elden Ring feel like a unique entry in the Souls genre. With gameplay tailored for players who want to experience the world solo as well as those who wish to play nearly the entire game in co-op, Elden Ring is a masterclass in design. Minor gripes about a couple of boss fights and the sheer density of the world to explore leaving many areas potentially undiscovered aside, Elden Ring is a nearly flawless experience which old and new fans of the Souls series will enjoy.",
+      "full_review_url": "https://gamingtrend.com/feature/reviews/elden-ring-review-tarnished-glory/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Malditos Nerds",
+      "score": 95,
+      "quote": "Elden Ring feels like the natural evolution of a video game series that continues to reinvent itself after more than 13 years of its birth. FromSoftware is simply the best at what they do. While there are some technical issues and repetitive structures and creatures, Elden Ring is a cruelly wonderful piece of work and one of the best adventure games of recent years.",
+      "full_review_url": "https://malditosnerds.com/elden-ring/analisis-elden-ring-el-soulslike-llega-al-mundo-abierto-n19795"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Press Start Australia",
+      "score": 95,
+      "quote": "While it feels like the impact of Breath of the Wild is waning as the open world genre starts to stagnate again, Elden Ring stands out as not only an achievement in FromSoftware’s hall of fame, but also as an open-world RPG. Elden Ring is without a doubt, FromSoft’s most ambitious undertaking yet, and like Dark Souls before it, I believe it will leave a permanent mark on both the open-world genre and the games industry in general.",
+      "full_review_url": "https://press-start.com.au/reviews/ps5-reviews/2022/02/24/elden-ring-review-a-formula-perfected"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Gamer.nl",
+      "score": 95,
+      "quote": "Elden Ring borrows a lot from Dark Souls and a bit from Bloodborne and Sekiro. With the blueprints of those games in their hands, FromSoftware started building and building. The result is a hugely good open world game that leaves an unforgettable impression in both scale and detail, but also scares.",
+      "full_review_url": "https://gamer.nl/artikelen/review/elden-ring-is-een-meesterwerk-voor-de-minderheid/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 25, 2022",
+      "publication": "Worth Playing",
+      "score": 95,
+      "quote": "Elden Ring is exactly the game people were hoping it would be. It's the biggest FromSoft Soulslike to date, with a ton of polish and a bucketload of content. It won't change your mind if you don't enjoy the genre, but Elden Ring accomplishes what it had set out to do. Not every new feature hits, and it sometimes felt a touch too familiar, but when the biggest complaint I can think of is, \"It feels like some of the best games ever made,\" that is a sign of its quality. Elden Ring is the game we've all been waiting for.",
+      "full_review_url": "https://worthplaying.com/article/2022/2/24/reviews/130816-ps5-review-elden-ring/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 2, 2022",
+      "publication": "GRYOnline.pl",
+      "score": 95,
+      "quote": "Elden Ring is a true soulslike that does some wonderful things with the concept of an open world, and its hands-off exploration. I haven't had so much fun with an open world since Red Dead Redemption 2. A difficult, satisfying, and otherwise excellent game!",
+      "full_review_url": "https://www.gry-online.pl/S020.asp?ID=14604"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 22, 2022",
+      "publication": "PSX Extreme",
+      "score": 95,
+      "quote": "All things considered, Elden Ring is a crowning achievement for FromSoftware but also for gaming. It takes the overused open world formula and flips it with a focus on exploration and freedom. It eliminates those limiting markers and quest objectives which every game since The Witcher 3 has used and that have really dampened the open world formula. For a game all about tradition, with its fantasy aesthetic and kings or rulers, it is amazing that Elden Ring breaks the mold and tradition by making such a compelling and intriguing experience. Once the bugs have been ironed out, there is no doubt in my mind that Elden Ring will be looked upon as one of the best games ever created despite the difficulty. It will be looked upon as a genre defining classic.",
+      "full_review_url": "https://psxextreme.com/reviews/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Apr 7, 2022",
+      "publication": "IGN Brasil",
+      "score": 95,
+      "quote": "Elden Ring delivers what it promises: it's a souls-like fantasy action RPG game developed by FromSoftware, with the influence of Hidetaka Miyazaki and George R.R. Martin, that brings a sprawling realm fully immersed in a rich and bloody story and that certainly will have every fan of fantasy and challenge ready to immerse themselves in this universe for hours and hours. Get ready for lots of action, epic battles, adventure, exploration and hardship.",
+      "full_review_url": "https://br.ign.com/elden-ring/96771/review/review-elden-ring"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "May 7, 2022",
+      "publication": "PSX Brasil",
+      "score": 95,
+      "quote": "With Elden Ring, From Software establishes an ideal model in open world game design. Neither too empty nor artificially crowded, with each adventure bringing a significant reward, albeit proportionate to the intensity of the challenge. The game sets a new paradigm for the genre, as it strikes a perfect balance by rewarding the player for each task accomplished, exploration well performed, or each battle won. The journey is massive, full of content and with minimal repetition. Elden Ring delivers extensive customization and an even more enhanced combat system than its spiritual predecessors. This aspect, added to the online component, will surely ensure a healthy community for years to come. It is unfortunate that performance issues exist, but such a factor should not be an impediment for the community to enjoy such a special game.",
+      "full_review_url": "https://psxbrasil.com.br/analise/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "GamePro Germany",
+      "score": 94,
+      "quote": "FromSoftware surpass themselves and create a magnificent action masterpiece that is unique in terms of open world design.",
+      "full_review_url": "https://www.gamepro.de/artikel/elden-ring-test,3378091.html"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 27, 2022",
+      "publication": "Video Chums",
+      "score": 93,
+      "quote": "Although I still find the original Dark Souls to be FromSoftware's magnum opus, Elden Ring is an undeniably amazing game. At the end of the day, it's sure to delight most Souls veterans but it probably won't convert many non-fans.",
+      "full_review_url": "https://videochums.com/review/elden-ring"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "May 11, 2022",
+      "publication": "MeuPlayStation",
+      "score": 92,
+      "quote": "Elden Ring can be seen as the dawn of a new era on FromSoftware. The game is a really deep experience, with amazing visuals, an unique sense of freedom, and of course, the hard-fought battles that we all love to hate. A well-rounded RPG filled with challenges, many different places to explore and great mechanics. It's GOTY material.",
+      "full_review_url": "https://meups.com.br/review/analise-elden-ring-vale-a-pena/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Dexerto",
+      "score": 90,
+      "quote": "Make no mistake, Elden Ring is to the Souls subgenre what Breath of the Wild was to the Zelda franchise; it took a classic dungeon-diving formula and opened it up, adding more choice, nuance, and combat flexibility in the process. It feels destined to kickstart a wave of \"did you know you could do this?\" YouTube videos, and a deeper discussion of build-crafting. Elden Ring isn’t Dark Souls 4 or just ‘Big Souls’, but it’s damn close, and represents the evolution the series needed and manages to be everything else we wanted it to be.",
+      "full_review_url": "https://www.dexerto.com/gaming/elden-ring-review-1769139/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Eurogamer Italy",
+      "score": 90,
+      "quote": "An enormous world which is always entertaining, an artistic and narrative coherence so strong that it reminds of Lordran, a sheer amount of content that is seriously overwhelming, and a near perfect concept design, make Elden Ring the best result that is possible to achieve within the “soulsborne” formula, with all its traditional strengths and weaknesses.",
+      "full_review_url": "https://www.eurogamer.it/articles/elden-ring-recensione"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "GAMES.CH",
+      "score": 90,
+      "quote": "Elden Ring is more than a mixture of Dark Souls, Bloodborne and Sekiro. Its huge game world invites you to explore, and there is much more optional than mandatory content. There are some minor balance issues, but they blench out considering all the strengths. In total, Elden Ring does not quite reach its predecessors on the eye level, but the game is still a need to play for any action rpg fan.",
+      "full_review_url": "https://www.games.ch/elden-ring/test/review-kCjd/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Inverse",
+      "score": 90,
+      "quote": "This isn’t just Dark Souls with an open world tacked on. Instead, developer FromSoftware weaves its familiar formula into a massive playground so expertly that we can’t help but wonder how we ever played Dark Souls without it.",
+      "full_review_url": "https://www.inverse.com/gaming/elden-ring-review"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "PlayStation LifeStyle",
+      "score": 90,
+      "quote": "Elden Ring feels like the game FromSoftware has been building up to ever since Demon’s Souls released in 2009. A huge open world filled to the brim with challenging enemies, characters sporting obvious influence from George R. R. Martin, and the typical drip-feed of lore FromSoftware is famous for crafting all combine to form an intoxicating adventure you won’t soon forget. Yes, the formulaic nature of these games is absolutely showing after three console generations, but as the saying goes, if it ain’t broke, don’t fix it!",
+      "full_review_url": "https://www.playstationlifestyle.net/2022/02/23/elden-ring-review-ps5/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 1, 2022",
+      "publication": "Push Square",
+      "score": 90,
+      "quote": "Elden Ring is the definitive FromSoftware game. With a refined combat system packing new ideas and an open world perfect for exploration, it sets a new benchmark for titles of this ilk to strive for. This is the Japanese developer firing on all cylinders — far and away its best creation yet. Elden Ring is an utterly essential PS5 title.",
+      "full_review_url": "https://www.pushsquare.com/reviews/ps5/elden-ring"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "VideoGamer",
+      "score": 90,
+      "quote": "There are no other dynamics quite like it in games; they acquaint us with an array of miseries and charge us money for the privilege.",
+      "full_review_url": "https://www.videogamer.com/reviews/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Jeuxvideo.com",
+      "score": 90,
+      "quote": "With its new open-world dimension, Elden Ring brilliantly fleshes out FromSoftware's already highly effective formula and offers Souls a spiritual sequel that is both ambitious and accessible. All the new features converge towards this last objective: the open world allows you to arm yourself more than ever with the epic and obligatory fights that the adventure reserves, without having the impression of walking around just to farm. And the best part is that it doesn't compromise the sense of accomplishment so important to the genre. Elden Ring is a complete, mysterious experience, where curiosity is tirelessly renewed by the feeling of discovering something for the first time. All with a sumptuous artistic direction, which makes you want to get lost, to explore. The title also welcomes new features that offer strategic choices in combat, without betraying their requirement. We only regret a slight lack of ambition for certain Legacy Dungeons, as well as the recycling of some assets and bosses. Overall, an exceptional title.",
+      "full_review_url": "https://www.jeuxvideo.com/test/1534784/elden-ring-un-dark-souls-plus-ambitieux-que-jamais.htm"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Metro GameCentral",
+      "score": 90,
+      "quote": "A masterful blend of Dark Souls and Zelda: Breath Of The Wild that makes high demands of its players and yet still remains surprisingly accessible and adaptable.",
+      "full_review_url": "https://metro.co.uk/2022/02/23/elden-ring-review-prepare-to-praise-16157090/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Power Unlimited",
+      "score": 90,
+      "quote": "The massive open game world isn't the earth-shattering innovation we expected from FromSoftware, but thankfully the Dark Souls foundation it's built over is just as strong and addictive as we've come to expect from the studio. It's the seventh piece of evidence that no one really does boss fights and epics as well as Hidetaka Miyazaki.",
+      "full_review_url": "https://pu.nl/artikelen/review/elden-ring-review-doe-m-maar-om-je-vinger/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Games.cz",
+      "score": 90,
+      "quote": "The years of waiting were worth it, Elden Ring is brilliant. It offers a huge amount of content, a beautiful world and addictive gameplay. But the series does start to feel a little bit stale.",
+      "full_review_url": "https://games.tiscali.cz/recenze/elden-ring-recenze-nejambicioznejsi-souls-hry-529377"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "TierraGamer",
+      "score": 90,
+      "quote": "Elden Ring is a very entertaining game that takes a lot from other FromSoftware titles. Its beautiful open world is a double-edged sword: on the one hand, it invites you to explore, but on the other, it makes you face the same enemies over and over again until you are sick of it.",
+      "full_review_url": "https://tierragamer.com/resena-elden-ring-ps5/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 4, 2022",
+      "publication": "Washington Post",
+      "score": 90,
+      "quote": "Sure, the new From Software title still operates like a typical Souls game insofar as it thrusts you into a mysterious world filled with beguiling monstrosities to kill. But enough tweaks have been made to create an experience that is, dare I say it, somewhat comforting.",
+      "full_review_url": "https://www.washingtonpost.com/comics/2022/03/04/elden-ring-sparkling-version-old-souls-formula/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 4, 2022",
+      "publication": "PlaySense",
+      "score": 90,
+      "quote": "FromSoftware is back with Elden Ring and although we had to wait a long time, it was worth it. The new approach with an open world works particularly well and that is partly due to the strong gameplay and beautiful environments that excel especially in style. In addition, the many bosses are incredibly cool and the soundtrack is fantastic. A must have, but know that the PS5 version has to contend with frame rate issues.",
+      "full_review_url": "https://playsense.nl/485808/review-elden-ring/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 4, 2022",
+      "publication": "Gamepressure",
+      "score": 90,
+      "quote": "Despite all of us playing the same game, what we experience in Elden Ring will be unique to each of us, and that is where the crux of its power lies. It is these differing experiences and its powerful emphasis on discovery that make Elden Ring a game that is worth discovering for yourself. Many will appreciate it, few will master it, but all will acknowledge it as a distinctive adventure that is as rewarding as it is dangerous.",
+      "full_review_url": "https://www.gamepressure.com/editorials/reviews/elden-ring-review-a-soulful-experience/zc534"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 6, 2022",
+      "publication": "Gameblog.fr",
+      "score": 90,
+      "quote": "A must have action-RPG with deep combat systems and an very interesting open-world. Sadly all is not perfect and graphics are totally outdated and AI have some problems.",
+      "full_review_url": "https://www.gameblog.fr/jeu-video/jeux/tests/test-de-elden-ring-une-merveilleuse-synthese-des-jeux-from-software-en-monde-ouvert-398335"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 8, 2022",
+      "publication": "Softpedia",
+      "score": 90,
+      "quote": "Elden Ring is everything that I dreamed of and more. Although I did expect From Software to refine the Souls recipe, I was quite surprised by the large amount of new mechanics and how well the Souls formula has been implemented in an open-world environment. But it’s not just the exploration aspect that makes Elden Ring the best Souls game out there. The massive open-world that doesn’t feel empty at all, the huge number of bosses and dungeons, as well as the boss fights elevate it to an entirely new level. Elden Ring is From Software at its best.",
+      "full_review_url": "https://www.softpedia.com/reviews/games/playstation-5/elden-ring-review-535005.shtml"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Apr 22, 2022",
+      "publication": "Post Arcade (National Post)",
+      "score": 90,
+      "quote": "Elden Ring is neither a step forward nor backward for the famed developer, but rather a shift to the side. It’s a different kind of FromSoftware game, one that mixes stampeding mounted combat in a vast world with more intimate, terrifying moments in dark caves and cramped castles. I’m having a grand time with it, make no mistake, but it’s not my favourite FromSoftware game to date.",
+      "full_review_url": "https://financialpost.com/technology/gaming/winter-game-roundup-three-to-try-one-to-pass-by"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Jun 2, 2023",
+      "publication": "Cubed3",
+      "score": 90,
+      "quote": "Elden Ring serves as a testament to open world video game design. There is a true sense of accomplishment once that rock-hard enemy has been slain and, something that compels a player to relentlessly do it over and over again until they succeed is truly rewarding. The world is humongous and an epitome of how exploration should be encouraged, by intriguing players to see what is over the hill. Elden Ring is an unmissable, must-play, gaming experience with surprises galore.",
+      "full_review_url": "http://www.cubed3.com/review/6829/1/elden-ring-playstation-5.html"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 11, 2022",
+      "publication": "JeuxActu",
+      "score": 85,
+      "quote": "Translating 13 years of legacy into a gigantic open world was quite a big challenge, and FromSoftware did it brilliantly with Zelda Breath of the Wild as a guide. But, to be honest, we don't share the opinion of most of our colleagues: Elden Ring is an excellent title, but it still lacks something to have the stuff of a GOTY 2022.",
+      "full_review_url": "https://www.jeuxactu.com/test-elden-ring-alors-non-ce-n-est-pas-lui-le-goty-2022-126900.htm"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 15, 2022",
+      "publication": "New Game Network",
+      "score": 85,
+      "quote": "Elden Ring is an unrelenting, engrossing, challenging, and marvelous experience. It brings the Dark Souls formula to an open world setting without skipping a beat, with all of its cryptic nature, punishing combat and wondrous level design. It's still not for everyone, but those who dare enter this realm may find themselves in one of the best games of the year.",
+      "full_review_url": "https://www.newgamenetwork.com/article/2530/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 7, 2022",
+      "publication": "PLAY",
+      "score": 80,
+      "quote": "Elden Ring needed to be fresh and bold, and \n\nit succeeds, putting you in charge of your\n\nown adventure. However the open world has \n\nsome uneven terrain. [Issue#12, p.80]",
+      "full_review_url": ""
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Aug 11, 2022",
+      "publication": "T3",
+      "score": 80,
+      "quote": "Elden Ring's engaging combat, mythology and dynamite orchestral soundtrack goes a long way to overshadow an aggressive open world that punishes exploration from the beaten path. Fans of the Souls genre are in for a treat, while newcomers will need to persist to reap the benefits.",
+      "full_review_url": "https://www.t3.com/reviews/elden-ring-review"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Eurogamer",
+      "score": null,
+      "quote": "Elden Ring remains a glorious game, one that established fans are going to savour for some time to come, and one that may just welcome new fans into the FromSoft fold. Sumptuous visual design, dark and detailed lore and a vast-but-intricate open world are reason enough to venture out into the Lands Between. Add to that FromSoftware's unforgiving and unforgettable gameplay loop and this is something truly special. [Eurogamer Essential]",
+      "full_review_url": "https://www.eurogamer.net/articles/2022-02-23-elden-ring-review"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Polygon",
+      "score": null,
+      "quote": "Elden Ring is the natural next step for FromSoftware, which last delivered a huge fantasy world like this in Dark Souls 3. That game featured a sprawling, interconnected world, a vast armory, and an incredible amount to learn, wield, and discover. Elden Ring is that game amplified — it plucks the best from Bloodborne, with its compact, puzzle-like mini-dungeons, and Sekiro: Shadows Die Twice, which offered new levels of mobility and faster action. But, all told, FromSoftware has done more than just remix its earlier games and layer on open-world influence with Elden Ring. The studio’s conversation with the player goes in fascinating new directions, and there are great surprises here for longtime fans of Souls games; From clearly knows what we expect of its castles, its boss encounters, the random out-of-nowhere ambushes, and it plays with those expectations. Sometimes it means I die unexpectedly. And sometimes it makes me smile",
+      "full_review_url": "https://www.polygon.com/reviews/22947204/elden-ring-review-from-software"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Ars Technica",
+      "score": null,
+      "quote": "After over 20 hours spent in this kind of explore-and-bounce-off-a-boss pattern, I still feel like I’ve barely scratched the surface of Elden Ring’s entrancing world (not to mention the many magical systems that aren’t really available to my character’s warrior class). I’m not sure I’ll ever have the patience or discipline to endure all of the punishing boss battles I still have ahead of me. But I can easily see myself just hopping on a horse, picking a direction, and galloping off into the many unexplored corners of Elden Ring.",
+      "full_review_url": "https://arstechnica.com/gaming/2022/02/elden-ring-review-come-see-the-softer-side-of-punishing-difficulty/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Giant Bomb",
+      "score": null,
+      "quote": "The Jeffs and Jan convene and hold gnarled fingers together to chat about their harrowing adventures in the world of Elden Ring.",
+      "full_review_url": "https://www.giantbomb.com/videos/jeff-jeff-and-jan-talk-about-elden-ring/2300-17586/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Launcher (The Washington Post)",
+      "score": null,
+      "quote": "Probably the easiest, most enticing way to describe the sheer scale of Elden Ring is to say it’s like receiving two to three new Dark Souls games in one.",
+      "full_review_url": "https://www.washingtonpost.com/video-games/reviews/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 10, 2022",
+      "publication": "3DJuegos",
+      "score": null,
+      "quote": "Elden Ring is one of those rare games that leads the industry by exemplifying with its open-world design and elaborate dungeon crawling, never-ending content that could fill several games. [Recommended]",
+      "full_review_url": "https://www.3djuegos.com/juegos/analisis/39279/0/elden-ring/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "playstation-5",
+      "review_type": "critic",
+      "date": "Mar 24, 2022",
+      "publication": "Kotaku",
+      "score": null,
+      "quote": "Like most great works, Elden Ring is magnificently flawed, equal parts beautiful and ostentatious. In this age of cookie-cutter, paint-by-numbers, triple-A development, what more can you ask for than something wholly confident in its bullshit? Now, if you’ll excuse me, I’m only about one-third of the way through the game and would love to see at least one of its multiple endings sometime this year.",
+      "full_review_url": "https://kotaku.com/elden-ring-fromsoftware-review-hidetaka-miyazaki-dark-s-1848694257"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "xbox-series-x",
+      "review_type": "critic",
+      "date": "Mar 11, 2022",
+      "publication": "EGM",
+      "score": 100,
+      "quote": "From its humble beginnings as a weird, brutally difficult new project that even its publisher had little faith in, the Souls series has grown into a vessel through which FromSoftware has helped change how we look at, and play, video games. And now, Elden Ring does the same for the Souls series itself. Years of gameplay refinements and revisions blend together with major franchise shifts such as the move to an open world and giving players far more freedom in how they set about saving said world. The result is a title that goes beyond anything Hidetaka Miyazaki and his team have given us before, both as a game and as an experience.",
+      "full_review_url": "https://egmnow.com/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "xbox-series-x",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "TheSixthAxis",
+      "score": 100,
+      "quote": "Elden Ring is the game Souls fans have been waiting for. From the open world design, to riding into battle on Torrent's back, and the dark narrative woven through the world, this is a clear Game of the Year frontrunner that will have us all ensnared for a long time to come.",
+      "full_review_url": "https://www.thesixthaxis.com/2022/02/23/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "xbox-series-x",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Windows Central",
+      "score": 100,
+      "quote": "Miyazaki and company have delivered a fantasy epic that viciously scrapes and claws its way into the pantheon of unforgettably important video games like Castlevania: Symphony of the Night and The Legend of Zelda: Breath of the Wild. Elden Ring is FromSoftware's most remarkable work so far and stands confidently as one of the greatest RPGs of all time.",
+      "full_review_url": "https://www.windowscentral.com/elden-ring-xbox-review"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "xbox-series-x",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Vandal",
+      "score": 100,
+      "quote": "Miyazaki and his team deliver one of the best video games ever made that elevates open-world, action RPGs to a whole new level.",
+      "full_review_url": "https://vandal.elespanol.com/analisis/xsx/elden-ring/102077#p-97"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "xbox-series-x",
+      "review_type": "critic",
+      "date": "Mar 1, 2022",
+      "publication": "Generación Xbox",
+      "score": 100,
+      "quote": "Ultimately, Elden Ring revolutionizes the Souls genre for the better. Now I'm looking forward to seeing if expansions will be released to expand the story, but for now, I'm back to continuing touring its exceptional world.",
+      "full_review_url": "https://generacionxbox.com/analisis-de-elden-ring-culmen-de-fromsoftware/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "xbox-series-x",
+      "review_type": "critic",
+      "date": "Mar 2, 2022",
+      "publication": "GameOver.gr",
+      "score": 100,
+      "quote": "For the Dark Souls fan this is a dream come true. For an open-world game this is a strong statement in a stale, oversaturated and by the book field of games. For a videogame, Elden Ring is a triumph right there with every iconic game that came before it. With unparalleled game design and a captivating sense of adventure, this is the best game FromSoftware ever made.",
+      "full_review_url": "https://www.gameover.gr/2022/03/01/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "xbox-series-x",
+      "review_type": "critic",
+      "date": "Mar 2, 2022",
+      "publication": "TheXboxHub",
+      "score": 100,
+      "quote": "Apart from the summoning issue that is found when attempting to play with others, Elden Ring is a triumph. It looks great, it plays like a dream and it provides a world in which you can spend hours, just wandering about, picking fights.",
+      "full_review_url": "https://www.thexboxhub.com/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "xbox-series-x",
+      "review_type": "critic",
+      "date": "Mar 4, 2022",
+      "publication": "Pure Xbox",
+      "score": 100,
+      "quote": "Elden Ring is a crowning achievement for FromSoftware and undoubtedly the very best gameplay experience they've yet delivered - and that's really saying something given this developer's incredible back catalogue. The Lands Between deftly combine breathless open world exploration, stunning artistry, immaculate world-building and wondrous adventure with classic Dark Souls combat and dungeon-crawling, resulting in not just the best Souls game to date, but a candidate for one of the very best video games ever made.",
+      "full_review_url": "http://www.purexbox.com/reviews/xbox-series-x/elden-ring"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "xbox-series-x",
+      "review_type": "critic",
+      "date": "Mar 12, 2022",
+      "publication": "Xbox Tavern",
+      "score": 100,
+      "quote": "FromSoftware has combined everything they learned while designing their past games and created something that will stand as a benchmark for years to come. Elden Ring is probably the most accessible game in their Soulsborne series, but it is very difficult. This difficulty and the esoteric nature of their design isn’t for everyone, but if you like fantasy RPGs there is no question as to whether you should give this a try. The amount of enjoyment, excitement, wonder, and reward I have felt while playing this game is unmatched. I don’t think I’ve ever experienced anything like it before. Elden Ring is easily the best game I’ve played so far this year, and I know it’s early but it should be in the discussion when talking about the greatest games of all time.",
+      "full_review_url": "https://www.xboxtavern.com/elden-ring-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "xbox-series-x",
+      "review_type": "critic",
+      "date": "Mar 25, 2022",
+      "publication": "XboxAddict",
+      "score": 100,
+      "quote": "Elden Ring rewards your curiosity in many ways, be it items, runes or a pathway to another area, but mostly it’s a story to tell your friends when you are sharing tales around the bonfire. It does not force feed tutorials down your throat, but instead it leans far the opposite way by not telling you much at all and lets you explore and find things out on your own. There is no true quest log, no points of interest on a map or no arrows pointing you in the right direction, so there is a good chance you’ll miss some of the best caves and areas of the game. Because of all of this, Elden Ring is forcing me to find all of that out on my own and it is one of the most rewarding games I have ever played. I will continue to explore the Land Between for many hours to come. I’m just not in a hurry.",
+      "full_review_url": "https://www.xboxaddict.com/Staff-Review/14657/Elden-Ring.html"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "xbox-series-x",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "CGMagazine",
+      "score": 95,
+      "quote": "Elden Ring is an epic. With a beautifully designed open world, FromSoftware takes the Souls formula to new heights and crafts a journey that needs to be played.",
+      "full_review_url": "https://www.cgmagonline.com/review/game/elden-ring-pc-review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "xbox-series-x",
+      "review_type": "critic",
+      "date": "Apr 4, 2022",
+      "publication": "The Mako Reactor",
+      "score": 95,
+      "quote": "Despite some annoying performance issues, Elden Ring is a masterpiece. The combat, enemy variety, exploration, music, and open world are top notch. I’ve been playing it daily across all platforms alongside other games all month, and look forward to doing that all year as I try new builds, help friends, and try to do everything I want in this triumph of a video game.",
+      "full_review_url": "https://themakoreactor.com/reviews/elden-ring-review-one-month-later-xbox-series-x-vs-ps5-ps4-pro-steam-pc/35551/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "xbox-series-x",
+      "review_type": "critic",
+      "date": "Mar 14, 2022",
+      "publication": "MondoXbox",
+      "score": 92,
+      "quote": "Elden Ring manages to draw the player into a fascinating world for many hours, with refined gameplay that fits perfectly with the freedom granted to the player. A sumptuous but imperfect work, which fails to completely overcome some of the historical flaws of Hidetaka Miyazaki's productions. Flaws that, however, can't diminish the scope of a masterpiece destined to leave an indelible mark on the videogame world and to set new standards for the souls-like and open-world genres.",
+      "full_review_url": "https://www.mondoxbox.com/recensione/3448/elden-ring.html"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "xbox-series-x",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "SomosXbox",
+      "score": 91,
+      "quote": "Elden Ring is a real milestone for its developers and one of the best titles we've played in the last few years. The way it mixes the gameplay from Dark Souls with a highly refined exploration offers a really fresh take on the saturated open world market. Despite some notable technical issues, they don't put a stain in the great taste of what promises to be one of the games that leaves a mark on a whole genre, and maybe, the best game From Software has ever developed.",
+      "full_review_url": "https://www.somosxbox.com/analisis-de-elden-ring-xbox-series-x/929875"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "xbox-series-x",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Movies Games and Tech",
+      "score": 90,
+      "quote": "Elden Ring proves that evolution is a beautiful thing. It retains the brilliance and difficulty of its peers while moving the genre towards a new era. Purists may despise the new direction but I think it retains the best mechanics while offering so much more.",
+      "full_review_url": "https://moviesgamesandtech.com/2022/02/23/review-elden-ring"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "xbox-series-x",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Jeuxvideo.com",
+      "score": 90,
+      "quote": "With its new open-world dimension, Elden Ring brilliantly fleshes out FromSoftware's already highly effective formula and offers Souls a spiritual sequel that is both ambitious and accessible. All the new features converge towards this last objective: the open world allows you to arm yourself more than ever with the epic and obligatory fights that the adventure reserves, without having the impression of walking around just to farm. And the best part is that it doesn't compromise the sense of accomplishment so important to the genre. Elden Ring is a complete, mysterious experience, where curiosity is tirelessly renewed by the feeling of discovering something for the first time. All with a sumptuous artistic direction, which makes you want to get lost, to explore. The title also welcomes new features that offer strategic choices in combat, without betraying their requirement. We only regret a slight lack of ambition for certain Legacy Dungeons, as well as the recycling of some assets and bosses. Overall, an exceptional title.",
+      "full_review_url": "https://www.jeuxvideo.com/test/1534784/elden-ring-un-dark-souls-plus-ambitieux-que-jamais.htm"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "xbox-series-x",
+      "review_type": "critic",
+      "date": "Feb 23, 2022",
+      "publication": "Xbox Achievements",
+      "score": 90,
+      "quote": "Elden Ring offers up a gorgeous open world that is enticing and exciting to explore, along with excellent combat variety, amazing bosses to fight, and intricate dungeons to tackle. It might feel a little familiar, but this could well be FromSoftware’s best game to date.",
+      "full_review_url": "https://www.xboxachievements.com/game/elden-ring/review/"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "xbox-series-x",
+      "review_type": "critic",
+      "date": "Mar 2, 2022",
+      "publication": "IGN Adria",
+      "score": 90,
+      "quote": "Elden Ring is a perfect experience for every souls veteran and its welcoming enough for the newcomers. It is a true evolution of the souls-like type of action RPG.",
+      "full_review_url": "https://adria.ign.com/elden-ring/35970/review/elden-ring-recenzija"
+    },
+    {
+      "game": "elden-ring",
+      "platform": "xbox-series-x",
+      "review_type": "critic",
+      "date": "Mar 11, 2022",
+      "publication": "TrueAchievements",
+      "score": 90,
+      "quote": "The sense of wonder and magic as you make your way around this mysterious and grimly beautiful world is truly extraordinary and while that does taper off somewhat by the time you reach the endgame and have seen more or less everything the game has to offer — several times over, in a lot of cases — but that doesn't detract too much from what will have otherwise been a truly remarkable adventure. Souls haters shouldn't fall for the rebrand as they'll just get burned again — Elden Ring is very much 'just' From doing what From does best, this time performing its greatest hits on the biggest stage to date. And what a wonderful thing that is to witness.",
+      "full_review_url": "https://www.trueachievements.com/n48885/elden-ring-review-xbox"
+    }
+  ]
+}
