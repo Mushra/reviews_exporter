@@ -183,33 +183,71 @@ def run_pipeline(
 
 
 
-    def update_progress(
-        message
+    def step_range(
+        index
     ):
 
-        nonlocal completed
-
-
-        completed += 1
-
-
-        percent = int(
-
-            completed
-            /
-            total_steps
+        start = int(
+            index
             *
             100
-
+            /
+            total_steps
         )
 
+        end = int(
+            (index + 1)
+            *
+            100
+            /
+            total_steps
+        )
 
-        if progress_callback:
+        if index == total_steps - 1:
+            end = 100
+
+        if end <= start:
+            end = min(start + 1, 100)
+
+        return start, end
+
+
+    def make_progress_report(
+        start,
+        end
+    ):
+
+        def report(
+            message,
+            ratio=None
+        ):
+
+            if not progress_callback:
+                return
+
+            if ratio is None:
+                percent = min(
+                    start + 1,
+                    end
+                )
+            else:
+                percent = int(
+                    start
+                    + ratio
+                    *
+                    (end - start)
+                )
+                percent = min(
+                    max(start, percent),
+                    end
+                )
 
             progress_callback(
                 percent,
                 message
             )
+
+        return report
 
 
 
@@ -227,7 +265,7 @@ def run_pipeline(
     # -------------------------------------------------------------
 
 
-    for action, target in steps:
+    for step_index, (action, target) in enumerate(steps):
 
 
         try:
@@ -245,20 +283,22 @@ def run_pipeline(
                 )
 
 
+                start, end = step_range(
+                    step_index
+                )
+
                 extract_reviews(
 
                     game,
 
                     platform,
 
-                    target
+                    target,
 
-                )
-
-
-                update_progress(
-
-                    f"Extraction {target} terminée"
+                    progress_callback=make_progress_report(
+                        start,
+                        end
+                    )
 
                 )
 
@@ -277,6 +317,10 @@ def run_pipeline(
                 )
 
 
+                start, end = step_range(
+                    step_index
+                )
+
                 parse_file(
 
                     game,
@@ -288,10 +332,12 @@ def run_pipeline(
                 )
 
 
-                update_progress(
-
-                    f"Processing {target} terminé"
-
+                make_progress_report(
+                    start,
+                    end
+                )(
+                    f"Processing {target} terminé",
+                    ratio=1.0
                 )
 
 
@@ -327,10 +373,16 @@ def run_pipeline(
                 ]
 
 
-                update_progress(
+                start, end = step_range(
+                    step_index
+                )
 
-                    f"{len(files)} fichiers exportés"
-
+                make_progress_report(
+                    start,
+                    end
+                )(
+                    f"{len(files)} fichiers exportés",
+                    ratio=1.0
                 )
 
 

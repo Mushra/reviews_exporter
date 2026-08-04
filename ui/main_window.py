@@ -475,6 +475,10 @@ class MainWindow(QWidget):
         )
 
 
+        # Close the search result list after selection.
+        self.results_list.clear()
+        self.game_input.clearFocus()
+
         self.write_log(
             f"Selected : {self.selected_game['title']}"
         )

@@ -343,8 +343,17 @@ def fetch_platform_reviews(
         offset += len(items)
 
 
+        ratio = 1.0
+        if total:
+            ratio = min(
+                len(reviews) / total,
+                1.0
+            )
+
+
         report(
-            f"{api_platform or 'all'} : {len(reviews)}/{total}"
+            f"{api_platform or 'all'} : {len(reviews)}/{total}",
+            ratio=ratio
         )
 
 
@@ -365,13 +374,15 @@ def fetch_reviews(
     )
 
     def report(
-        message
+        message,
+        ratio=None
     ):
 
         if progress_callback:
 
             progress_callback(
-                message
+                message,
+                ratio=ratio
             )
 
     logger.info(

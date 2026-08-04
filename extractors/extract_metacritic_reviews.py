@@ -46,7 +46,8 @@ def extract_reviews(
     if progress_callback:
 
         progress_callback(
-            f"Extraction {review_type} : connexion API..."
+            f"Extraction {review_type} : connexion API...",
+            ratio=0.0
         )
 
 
@@ -96,7 +97,8 @@ def extract_reviews(
     if progress_callback:
 
         progress_callback(
-            f"Extraction {review_type} : sauvegarde JSON brut..."
+            f"Extraction {review_type} : sauvegarde JSON brut...",
+            ratio=0.8
         )
 
 
@@ -117,7 +119,8 @@ def extract_reviews(
     if progress_callback:
 
         progress_callback(
-            f"Extraction {review_type} terminée"
+            f"Extraction {review_type} terminée",
+            ratio=1.0
         )
 
 
