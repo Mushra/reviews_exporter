@@ -90,6 +90,10 @@ class MetacriticTab(QWidget):
             checkbox.setChecked(True)
             layout.addWidget(checkbox)
 
+        self.enrich_critic = QCheckBox("Enrich critic reviews (scrape full press articles)")
+        self.enrich_critic.setChecked(False)
+        layout.addWidget(self.enrich_critic)
+
         layout.addStretch()
 
         self.setLayout(layout)
@@ -211,6 +215,7 @@ class MetacriticTab(QWidget):
             "extract_critic": self.extract_critic.isChecked(),
             "process_user": self.process_user.isChecked(),
             "process_critic": self.process_critic.isChecked(),
+            "enrich_critic": self.enrich_critic.isChecked(),
             "destination_folder": destination_folder,
         }
 
@@ -227,5 +232,6 @@ class MetacriticTab(QWidget):
             self.extract_critic,
             self.process_user,
             self.process_critic,
+            self.enrich_critic,
         ]:
             checkbox.setEnabled(not running)

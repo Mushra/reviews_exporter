@@ -367,8 +367,8 @@ JSONL_ITEM_THRESHOLD = 1000
 JSONL_BYTE_THRESHOLD = 2_000_000
 
 
-def save_parsed(
-    game: str,
+def _save_meta_items_envelope(
+    folder: Path,
     filename: str,
     meta: dict,
     items: list,
@@ -387,7 +387,7 @@ def save_parsed(
 
     if use_jsonl:
 
-        output = get_parsed_folder(game) / f"{base}.jsonl"
+        output = folder / f"{base}.jsonl"
 
         with open(output, "w", encoding="utf-8") as f:
 
@@ -403,7 +403,7 @@ def save_parsed(
 
         return output
 
-    output = get_parsed_folder(game) / f"{base}.json"
+    output = folder / f"{base}.json"
 
     with open(output, "w", encoding="utf-8") as f:
 
@@ -415,6 +415,36 @@ def save_parsed(
         )
 
     return output
+
+
+def save_parsed(
+    game: str,
+    filename: str,
+    meta: dict,
+    items: list,
+) -> Path:
+
+    return _save_meta_items_envelope(
+        get_parsed_folder(game),
+        filename,
+        meta,
+        items,
+    )
+
+
+def save_enriched(
+    game: str,
+    filename: str,
+    meta: dict,
+    items: list,
+) -> Path:
+
+    return _save_meta_items_envelope(
+        get_enriched_folder(game),
+        filename,
+        meta,
+        items,
+    )
 
 
 def load_parsed(path: Path):

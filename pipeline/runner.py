@@ -12,6 +12,11 @@ from parsers.parse_metacritic_api import (
     parse_all_platforms
 )
 
+from enrichers.enrich_metacritic import (
+    enrich_file,
+    enrich_all_platforms
+)
+
 from core.api import is_all_platforms
 
 from extractors.extract_steam_reviews import (
@@ -102,6 +107,8 @@ def run_pipeline(
 
     process_critic: bool = True,
 
+    enrich_critic: bool = False,
+
     destination_folder: str = None,
 
     progress_callback=None,
@@ -133,6 +140,9 @@ def run_pipeline(
 
     process_critic:
         Parse critic reviews.
+
+    enrich_critic:
+        Scrape full press article text for critic reviews.
 
     destination_folder:
         Optional export folder for parsed files.
@@ -203,6 +213,16 @@ def run_pipeline(
         steps.append(
             (
                 "process",
+                "critic"
+            )
+        )
+
+
+    if enrich_critic:
+
+        steps.append(
+            (
+                "enrich",
                 "critic"
             )
         )
@@ -369,6 +389,71 @@ def run_pipeline(
                     f"Processing {target} complete",
                     ratio=1.0
                 )
+
+
+
+
+            # -----------------------------------------------------
+            # Enrichment
+            # -----------------------------------------------------
+
+            elif action == "enrich":
+
+
+                logger.info(
+                    f"Enriching {target} reviews..."
+                )
+
+
+                start, end = step_range(
+                    step_index,
+                    total_steps
+                )
+
+                if is_all_platforms(platform):
+
+                    enrich_all_platforms(
+
+                        game,
+
+                        target,
+
+                        progress_callback=make_progress_report(
+                            start,
+                            end
+                        ),
+
+                        cancel_event=cancel_event
+
+                    )
+
+                else:
+
+                    try:
+
+                        enrich_file(
+
+                            game,
+
+                            platform,
+
+                            target,
+
+                            progress_callback=make_progress_report(
+                                start,
+                                end
+                            ),
+
+                            cancel_event=cancel_event
+
+                        )
+
+                    except FileNotFoundError:
+
+                        logger.warning(
+                            f"No parsed {target} reviews for platform "
+                            f"'{platform}' - nothing to enrich"
+                        )
 
 
 

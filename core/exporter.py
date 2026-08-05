@@ -2,7 +2,7 @@ from pathlib import Path
 import shutil
 
 from core.logger import Logger
-from core.filesystem import get_parsed_folder
+from core.filesystem import get_parsed_folder, get_enriched_folder
 
 
 logger = Logger(__name__)
@@ -76,6 +76,36 @@ def export_parsed_reviews(
             logger.info(
                 f"Export : {target}"
             )
+
+
+    enriched_source = get_enriched_folder(
+        game
+    )
+
+    if enriched_source.exists():
+
+        for pattern in ("*.json", "*.jsonl"):
+
+            for file in enriched_source.glob(pattern):
+
+                target = (
+                    destination
+                    /
+                    file.name
+                )
+
+                shutil.copy2(
+                    file,
+                    target
+                )
+
+                exported.append(
+                    target
+                )
+
+                logger.info(
+                    f"Export : {target}"
+                )
 
 
     return exported
