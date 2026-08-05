@@ -10,4 +10,5 @@ if (Test-Path ".venv\Scripts\python.exe") {
 & $python -m pip install -r requirements.txt pyinstaller
 
 & $python -m PyInstaller --noconfirm --onefile --windowed --name "MetacriticReviewExporter" `
+  --collect-data trafilatura --collect-data justext `
   main.py

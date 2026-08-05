@@ -30,7 +30,7 @@ jobs:
 
       - name: Build executable
         run: |
-          pyinstaller --noconfirm --onefile --windowed --name "MetacriticReviewExporter" main.py
+          pyinstaller --noconfirm --onefile --windowed --name "MetacriticReviewExporter" --collect-data trafilatura --collect-data justext main.py
 
       - name: Create GitHub Release
         if: startsWith(github.ref, 'refs/tags/')
