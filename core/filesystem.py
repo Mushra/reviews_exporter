@@ -393,14 +393,8 @@ def save_raw_json(
 
 
 # ---------------------------------------------------------------------
-# Sauvegarde JSON/JSONL PARSED avec enveloppe meta + items
+# Sauvegarde JSON PARSED avec enveloppe meta + items
 # ---------------------------------------------------------------------
-
-# Large parsed files switch to JSONL (one item per line) so they can be
-# streamed/chunked by downstream RAG/embedding pipelines instead of being
-# loaded fully into memory as a single JSON array.
-JSONL_ITEM_THRESHOLD = 1000
-JSONL_BYTE_THRESHOLD = 2_000_000
 
 # A single processed (parsed/enriched) file that grows past this size gets
 # split into numbered parts (`{base}_001.json`, `{base}_002.json`, ...) so
@@ -444,33 +438,6 @@ def _save_envelope_part(
     meta: dict,
     items: list,
 ) -> Path:
-
-    items_size = len(
-        json.dumps(items, ensure_ascii=False)
-    )
-
-    use_jsonl = (
-        len(items) > JSONL_ITEM_THRESHOLD
-        or items_size > JSONL_BYTE_THRESHOLD
-    )
-
-    if use_jsonl:
-
-        output = folder / f"{base}.jsonl"
-
-        with open(output, "w", encoding="utf-8") as f:
-
-            f.write(
-                json.dumps({"meta": meta}, ensure_ascii=False) + "\n"
-            )
-
-            for item in items:
-
-                f.write(
-                    json.dumps(item, ensure_ascii=False) + "\n"
-                )
-
-        return output
 
     output = folder / f"{base}.json"
 
