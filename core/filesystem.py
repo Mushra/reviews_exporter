@@ -223,6 +223,17 @@ def get_metacritic_filename(
 
 
 
+def get_metacritic_combined_filename(
+    game: str,
+    stage: str
+) -> str:
+
+    return (
+        f"{game}_metacritic_combined_{stage}.json"
+    )
+
+
+
 def get_steam_filename(
     game: str,
     stage: str
@@ -246,6 +257,31 @@ def get_youtube_filename(
 
     return (
         f"{game}_youtube_{channel_slug}_{title_slug}_{stage}.json"
+    )
+
+
+
+def get_youtube_transcript_raw_filename(
+    game: str,
+    channel_title: str,
+    video_title: str,
+) -> str:
+
+    channel_slug = slugify_segment(channel_title) or "unknown-channel"
+    title_slug = slugify_segment(video_title) or "unknown-video"
+
+    return (
+        f"{game}_youtube_{channel_slug}_{title_slug}_transcript_raw.json"
+    )
+
+
+
+def get_youtube_transcripts_parsed_filename(
+    game: str,
+) -> str:
+
+    return (
+        f"{game}_youtube_transcripts_parsed.json"
     )
 
 
@@ -366,15 +402,48 @@ def save_raw_json(
 JSONL_ITEM_THRESHOLD = 1000
 JSONL_BYTE_THRESHOLD = 2_000_000
 
+# A single processed (parsed/enriched) file that grows past this size gets
+# split into numbered parts (`{base}_001.json`, `{base}_002.json`, ...) so
+# no output file balloons past a size that's awkward to open, transfer, or
+# feed to a downstream embedding pipeline in one shot.
+MAX_PART_BYTES = 60 * 1024 * 1024
 
-def _save_meta_items_envelope(
+
+def _chunk_items_by_size(items: list, max_bytes: int) -> list:
+    """Greedily group items into chunks whose serialized size stays under
+    max_bytes. A single oversized item still gets its own chunk rather than
+    raising - there is no smaller unit to split it into."""
+
+    if not items:
+        return [[]]
+
+    chunks = []
+    current = []
+    current_size = 2  # "[" + "]"
+
+    for item in items:
+
+        item_size = len(json.dumps(item, ensure_ascii=False)) + 1  # +1 separator
+
+        if current and current_size + item_size > max_bytes:
+            chunks.append(current)
+            current = []
+            current_size = 2
+
+        current.append(item)
+        current_size += item_size
+
+    chunks.append(current)
+
+    return chunks
+
+
+def _save_envelope_part(
     folder: Path,
-    filename: str,
+    base: str,
     meta: dict,
     items: list,
 ) -> Path:
-
-    base = filename[:-5] if filename.endswith(".json") else filename
 
     items_size = len(
         json.dumps(items, ensure_ascii=False)
@@ -417,12 +486,51 @@ def _save_meta_items_envelope(
     return output
 
 
+def _save_meta_items_envelope(
+    folder: Path,
+    filename: str,
+    meta: dict,
+    items: list,
+) -> list[Path]:
+
+    base = filename[:-5] if filename.endswith(".json") else filename
+
+    items_size = len(
+        json.dumps(items, ensure_ascii=False)
+    )
+
+    if items_size <= MAX_PART_BYTES:
+        return [_save_envelope_part(folder, base, meta, items)]
+
+    chunks = _chunk_items_by_size(items, MAX_PART_BYTES)
+    total_parts = len(chunks)
+
+    outputs = []
+
+    for index, chunk_items in enumerate(chunks, start=1):
+
+        part_meta = dict(meta)
+        part_meta["part"] = index
+        part_meta["total_parts"] = total_parts
+
+        outputs.append(
+            _save_envelope_part(
+                folder,
+                f"{base}_{index:03d}",
+                part_meta,
+                chunk_items,
+            )
+        )
+
+    return outputs
+
+
 def save_parsed(
     game: str,
     filename: str,
     meta: dict,
     items: list,
-) -> Path:
+) -> list[Path]:
 
     return _save_meta_items_envelope(
         get_parsed_folder(game),
@@ -437,7 +545,7 @@ def save_enriched(
     filename: str,
     meta: dict,
     items: list,
-) -> Path:
+) -> list[Path]:
 
     return _save_meta_items_envelope(
         get_enriched_folder(game),
@@ -445,6 +553,51 @@ def save_enriched(
         meta,
         items,
     )
+
+
+def find_envelope_parts(folder: Path, base: str) -> list:
+    """Return the on-disk file(s) for a saved parsed/enriched envelope, in
+    part order: the single unsplit file if one exists, otherwise every
+    `{base}_NNN.json`/`.jsonl` part (see MAX_PART_BYTES)."""
+
+    for suffix in (".json", ".jsonl"):
+
+        single = folder / f"{base}{suffix}"
+
+        if single.exists():
+            return [single]
+
+    parts = list(folder.glob(f"{base}_*.json")) + list(folder.glob(f"{base}_*.jsonl"))
+
+    return sorted(parts, key=lambda path: path.stem)
+
+
+def load_parsed_merged(folder: Path, base: str):
+    """Load a parsed/enriched envelope that may have been split into
+    multiple size-limited parts, returning a single merged
+    {"meta":..., "items":...} dict as if it had never been split. Returns
+    None if no matching file/part exists."""
+
+    parts = find_envelope_parts(folder, base)
+
+    if not parts:
+        return None
+
+    meta = None
+    items = []
+
+    for path in parts:
+
+        data = load_parsed(path)
+
+        if meta is None:
+            meta = dict(data.get("meta") or {})
+            meta.pop("part", None)
+            meta.pop("total_parts", None)
+
+        items.extend(data.get("items", []))
+
+    return {"meta": meta, "items": items}
 
 
 def load_parsed(path: Path):

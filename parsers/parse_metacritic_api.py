@@ -1,3 +1,4 @@
+import re
 import sys
 
 from models.review import Review
@@ -6,7 +7,10 @@ from core.filesystem import (
     load_json,
     save_parsed,
     get_raw_folder,
+    get_parsed_folder,
     get_metacritic_filename,
+    get_metacritic_combined_filename,
+    load_parsed_merged,
     slugify_segment
 )
 from core.normalize import (
@@ -497,9 +501,8 @@ def parse_file(
     )
 
 
-    logger.info(
-        f"Saved : {output}"
-    )
+    for path in output:
+        logger.info(f"Saved : {path}")
 
 
     return output
@@ -612,6 +615,125 @@ def parse_all_platforms(
 
     return outputs
 
+
+
+# ---------------------------------------------------------
+# Combine : merge every processed (parsed) file for this game - both
+# review types, every platform - into a single JSON. Still goes through
+# save_parsed, so the combined output follows the same 60MB split rule
+# (see MAX_PART_BYTES in core/filesystem.py) as any other processed file.
+# ---------------------------------------------------------
+
+def _parsed_base_pattern(game):
+
+    return re.compile(
+        rf"^{re.escape(game)}_metacritic_(user|critic)_(.+)_parsed(?:_\d{{3}})?$"
+    )
+
+
+def discover_parsed_bases(game):
+    """Every individual (non-combined) Metacritic parsed file base for this
+    game - one entry per (review_type, platform). Files split across
+    multiple parts (`_001`, `_002`, ...) collapse to the base they were
+    split from."""
+
+    folder = get_parsed_folder(game)
+
+    pattern = _parsed_base_pattern(game)
+
+    bases = set()
+
+    for file in (
+        list(folder.glob(f"{game}_metacritic_*_parsed*.json"))
+        + list(folder.glob(f"{game}_metacritic_*_parsed*.jsonl"))
+    ):
+
+        match = pattern.match(file.stem)
+
+        if not match:
+            continue
+
+        review_type, platform_slug = match.groups()
+
+        bases.add(f"{game}_metacritic_{review_type}_{platform_slug}_parsed")
+
+    return sorted(bases)
+
+
+def combine_processed_reviews(game):
+
+    folder = get_parsed_folder(game)
+
+    bases = discover_parsed_bases(game)
+
+    if not bases:
+
+        raise FileNotFoundError(
+            f"No processed Metacritic reviews found for '{game}'"
+        )
+
+    all_items = []
+    sources = []
+    game_title = None
+
+    for base in bases:
+
+        merged = load_parsed_merged(folder, base)
+
+        if merged is None:
+            continue
+
+        meta = merged.get("meta") or {}
+        items = merged.get("items", [])
+
+        if game_title is None:
+            game_title = meta.get("game_title")
+
+        all_items.extend(items)
+
+        sources.append({
+            "type": meta.get("type"),
+            "platform": meta.get("platform"),
+            "aggregate_score": meta.get("aggregate_score"),
+            "item_count": len(items),
+        })
+
+    combined_meta = {
+
+        "game": game,
+
+        "game_title": game_title or game,
+
+        "source": "metacritic",
+
+        "type": "combined",
+
+        "platform": "all",
+
+        "aggregate_score": None,
+
+        "total_items": len(all_items),
+
+        "sources": sources,
+
+    }
+
+    output = save_parsed(
+        game,
+        get_metacritic_combined_filename(game, "parsed"),
+        combined_meta,
+        all_items,
+    )
+
+    logger.info(
+        f"Combined Metacritic reviews : {len(all_items)} "
+        f"(from {len(sources)} source file(s))"
+    )
+
+    for path in output:
+        logger.info(f"Saved : {path}")
+
+    return output
 
 
 # ---------------------------------------------------------

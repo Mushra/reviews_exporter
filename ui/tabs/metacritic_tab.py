@@ -94,6 +94,10 @@ class MetacriticTab(QWidget):
         self.enrich_critic.setChecked(False)
         layout.addWidget(self.enrich_critic)
 
+        self.combine_processed = QCheckBox("Combine user + critic reviews into a single JSON")
+        self.combine_processed.setChecked(False)
+        layout.addWidget(self.combine_processed)
+
         layout.addStretch()
 
         self.setLayout(layout)
@@ -215,6 +219,7 @@ class MetacriticTab(QWidget):
             "extract_critic": self.extract_critic.isChecked(),
             "process_user": self.process_user.isChecked(),
             "process_critic": self.process_critic.isChecked(),
+            "combine_processed": self.combine_processed.isChecked(),
             "enrich_critic": self.enrich_critic.isChecked(),
             "destination_folder": destination_folder,
         }
@@ -233,5 +238,6 @@ class MetacriticTab(QWidget):
             self.process_user,
             self.process_critic,
             self.enrich_critic,
+            self.combine_processed,
         ]:
             checkbox.setEnabled(not running)

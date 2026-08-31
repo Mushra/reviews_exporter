@@ -12,6 +12,7 @@ from core.logger import Logger
 from parsers.parse_metacritic_api import parse_file as parse_metacritic_file
 from parsers.parse_steam_api import parse_file as parse_steam_file
 from parsers.parse_youtube_api import parse_file as parse_youtube_file, find_raw_file
+from parsers.parse_youtube_transcripts import parse_and_merge as parse_youtube_transcripts
 from core.filesystem import load_json
 
 
@@ -20,6 +21,10 @@ logger = Logger(__name__)
 
 METACRITIC_PATTERN = re.compile(r"^(.+)_metacritic_(critic|user)_(.+)_raw$")
 STEAM_PATTERN = re.compile(r"^(.+)_steam_pc_raw$")
+# Checked before YOUTUBE_PATTERN below - "_transcript_raw" stems would
+# otherwise also match the looser "_raw" pattern and get fed to the
+# comments parser instead of being merged as transcripts.
+YOUTUBE_TRANSCRIPT_PATTERN = re.compile(r"^(.+)_youtube_.+_transcript_raw$")
 YOUTUBE_PATTERN = re.compile(r"^(.+)_youtube_.+_raw$")
 
 
@@ -42,10 +47,17 @@ def reparse_all():
             continue
 
         seen_youtube_ids = set()
+        has_transcript_raw = False
 
         for file in sorted(raw_folder.glob("*.json")):
 
             stem = file.stem
+
+            if YOUTUBE_TRANSCRIPT_PATTERN.match(stem):
+
+                has_transcript_raw = True
+
+                continue
 
             match = METACRITIC_PATTERN.match(stem)
 
@@ -111,6 +123,18 @@ def reparse_all():
                 continue
 
             logger.warning(f"Unrecognized raw file pattern : {file}")
+
+        if has_transcript_raw:
+
+            try:
+
+                parse_youtube_transcripts(game)
+
+                total += 1
+
+            except Exception as error:
+
+                logger.error(f"Failed to parse YouTube transcripts for {game} : {error}")
 
     logger.info(f"Re-parse complete : {total} file(s) processed")
 

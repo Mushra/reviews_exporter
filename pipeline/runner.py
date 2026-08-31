@@ -9,7 +9,8 @@ from extractors.extract_metacritic_reviews import (
 
 from parsers.parse_metacritic_api import (
     parse_file,
-    parse_all_platforms
+    parse_all_platforms,
+    combine_processed_reviews
 )
 
 from enrichers.enrich_metacritic import (
@@ -33,6 +34,14 @@ from extractors.extract_youtube_comments import (
 
 from parsers.parse_youtube_api import (
     parse_files as parse_youtube_files
+)
+
+from extractors.extract_youtube_transcripts import (
+    extract_transcripts as extract_youtube_transcripts
+)
+
+from parsers.parse_youtube_transcripts import (
+    parse_and_merge as parse_youtube_transcripts
 )
 
 from core.youtube_api import parse_video_id
@@ -107,6 +116,8 @@ def run_pipeline(
 
     process_critic: bool = True,
 
+    combine_processed: bool = False,
+
     enrich_critic: bool = False,
 
     destination_folder: str = None,
@@ -140,6 +151,10 @@ def run_pipeline(
 
     process_critic:
         Parse critic reviews.
+
+    combine_processed:
+        Merge every processed (parsed) file for this game - user and
+        critic, every platform - into a single JSON.
 
     enrich_critic:
         Scrape full press article text for critic reviews.
@@ -218,6 +233,16 @@ def run_pipeline(
         )
 
 
+    if combine_processed:
+
+        steps.append(
+            (
+                "combine",
+                "processed"
+            )
+        )
+
+
     if enrich_critic:
 
         steps.append(
@@ -234,6 +259,7 @@ def run_pipeline(
     if destination_folder and (
         process_user
         or process_critic
+        or combine_processed
     ):
 
         steps.append(
@@ -387,6 +413,47 @@ def run_pipeline(
                     end
                 )(
                     f"Processing {target} complete",
+                    ratio=1.0
+                )
+
+
+
+
+            # -----------------------------------------------------
+            # Combine (merge every processed file into a single JSON)
+            # -----------------------------------------------------
+
+            elif action == "combine":
+
+
+                logger.info(
+                    "Combining processed reviews (user + critic)..."
+                )
+
+
+                start, end = step_range(
+                    step_index,
+                    total_steps
+                )
+
+                try:
+
+                    combine_processed_reviews(
+                        game
+                    )
+
+                except FileNotFoundError:
+
+                    logger.warning(
+                        f"No processed Metacritic reviews for '{game}' - "
+                        "nothing to combine"
+                    )
+
+                make_progress_report(
+                    start,
+                    end
+                )(
+                    "Combining processed reviews complete",
                     ratio=1.0
                 )
 
@@ -673,6 +740,8 @@ def run_youtube_pipeline(
     api_key: str,
     extract: bool = True,
     process: bool = True,
+    extract_transcripts: bool = False,
+    process_transcripts: bool = False,
     destination_folder: str = None,
     progress_callback=None,
     cancel_event=None,
@@ -700,12 +769,18 @@ def run_youtube_pipeline(
     steps = []
 
     if extract:
-        steps.append("extract")
+        steps.append("extract_comments")
 
     if process:
-        steps.append("process")
+        steps.append("process_comments")
 
-    if destination_folder and process:
+    if extract_transcripts:
+        steps.append("extract_transcripts")
+
+    if process_transcripts:
+        steps.append("process_transcripts")
+
+    if destination_folder and (process or process_transcripts):
         steps.append("export")
 
     total_steps = len(steps)
@@ -724,7 +799,7 @@ def run_youtube_pipeline(
 
         try:
 
-            if action == "extract":
+            if action == "extract_comments":
 
                 logger.info("Extracting YouTube comments...")
 
@@ -736,13 +811,42 @@ def run_youtube_pipeline(
                     cancel_event=cancel_event,
                 )
 
-            elif action == "process":
+            elif action == "process_comments":
 
                 logger.info("Processing YouTube comments...")
 
                 parse_youtube_files(game, video_ids)
 
                 report("Processing YouTube complete", ratio=1.0)
+
+            elif action == "extract_transcripts":
+
+                logger.info("Extracting YouTube transcripts...")
+
+                extract_youtube_transcripts(
+                    game,
+                    video_urls,
+                    api_key,
+                    progress_callback=report,
+                    cancel_event=cancel_event,
+                )
+
+            elif action == "process_transcripts":
+
+                logger.info("Processing YouTube transcripts...")
+
+                try:
+
+                    parse_youtube_transcripts(game, video_ids)
+
+                except FileNotFoundError:
+
+                    logger.warning(
+                        "No raw YouTube transcript for this project - "
+                        "nothing to process"
+                    )
+
+                report("Processing YouTube transcripts complete", ratio=1.0)
 
             elif action == "export":
 

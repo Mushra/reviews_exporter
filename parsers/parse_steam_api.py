@@ -168,7 +168,8 @@ def parse_file(game):
 
     logger.info(f"Steam reviews parsed : {len(reviews)}")
 
-    logger.info(f"Saved : {output}")
+    for path in output:
+        logger.info(f"Saved : {path}")
 
     return output
 

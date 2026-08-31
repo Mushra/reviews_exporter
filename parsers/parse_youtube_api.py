@@ -192,6 +192,13 @@ def find_raw_file(game, video_id):
 
     for file in raw_folder.glob(f"{game}_youtube_*_raw.json"):
 
+        # The glob's `*` also matches transcript raw files (they end in
+        # "_transcript_raw.json", which still satisfies "*_raw.json") -
+        # skip them so comment parsing never accidentally picks up a
+        # transcript raw file for the same video.
+        if file.name.endswith("_transcript_raw.json"):
+            continue
+
         try:
             data = load_json(file)
         except Exception:
@@ -237,7 +244,8 @@ def parse_file(game, video_id):
 
     logger.info(f"YouTube comments parsed : {meta['total_items']}")
 
-    logger.info(f"Saved : {output}")
+    for path in output:
+        logger.info(f"Saved : {path}")
 
     return output
 

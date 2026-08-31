@@ -13,7 +13,7 @@ import sys
 from core.filesystem import (
     get_parsed_folder,
     get_metacritic_filename,
-    load_parsed,
+    load_parsed_merged,
     save_enriched,
     slugify_segment,
 )
@@ -113,31 +113,19 @@ def enrich_file(
     platform_slug = slugify_segment(platform) or "unknown"
 
     parsed_filename = get_metacritic_filename(game, review_type, platform, "parsed")
+    parsed_base = (
+        parsed_filename[:-5] if parsed_filename.endswith(".json") else parsed_filename
+    )
 
-    parsed_path = None
+    parsed = load_parsed_merged(get_parsed_folder(game), parsed_base)
 
-    for candidate_suffix in (".json", ".jsonl"):
-
-        candidate = (
-            get_parsed_folder(game)
-            / f"{parsed_filename[:-5]}{candidate_suffix}"
-        )
-
-        if candidate.exists():
-
-            parsed_path = candidate
-
-            break
-
-    if parsed_path is None:
+    if parsed is None:
 
         raise FileNotFoundError(
             f"No parsed critic file found for '{game}' ({platform_slug})"
         )
 
-    logger.info(f"Reading : {parsed_path}")
-
-    parsed = load_parsed(parsed_path)
+    logger.info(f"Reading : {parsed_base} (merged from all parts)")
 
     items = parsed.get("items", [])
 
@@ -190,7 +178,8 @@ def enrich_file(
         f"{no_url} no url, {video_url} video url (total {len(items)})"
     )
 
-    logger.info(f"Saved : {output}")
+    for path in output:
+        logger.info(f"Saved : {path}")
 
     return output
 

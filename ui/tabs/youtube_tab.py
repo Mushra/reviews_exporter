@@ -107,6 +107,13 @@ class YoutubeTab(QWidget):
             checkbox.setChecked(True)
             layout.addWidget(checkbox)
 
+        self.extract_transcripts = QCheckBox("Extract transcripts")
+        self.process_transcripts = QCheckBox("Process transcripts")
+
+        for checkbox in [self.extract_transcripts, self.process_transcripts]:
+            checkbox.setChecked(False)
+            layout.addWidget(checkbox)
+
         self.key_status = QLabel()
         self.key_status.setProperty("role", "subtitle")
         layout.addWidget(self.key_status)
@@ -242,6 +249,8 @@ class YoutubeTab(QWidget):
             "api_key": api_key,
             "extract": self.extract_comments.isChecked(),
             "process": self.process_comments.isChecked(),
+            "extract_transcripts": self.extract_transcripts.isChecked(),
+            "process_transcripts": self.process_transcripts.isChecked(),
             "destination_folder": destination_folder,
         }
 
@@ -254,3 +263,5 @@ class YoutubeTab(QWidget):
         self.video_list.setEnabled(not running)
         self.extract_comments.setEnabled(not running)
         self.process_comments.setEnabled(not running)
+        self.extract_transcripts.setEnabled(not running)
+        self.process_transcripts.setEnabled(not running)
