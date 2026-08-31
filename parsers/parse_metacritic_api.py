@@ -8,6 +8,7 @@ from core.filesystem import (
     save_parsed,
     get_raw_folder,
     get_parsed_folder,
+    get_enriched_folder,
     get_metacritic_filename,
     get_metacritic_combined_filename,
     load_parsed_merged,
@@ -662,7 +663,8 @@ def discover_parsed_bases(game):
 
 def combine_processed_reviews(game):
 
-    folder = get_parsed_folder(game)
+    parsed_folder = get_parsed_folder(game)
+    enriched_folder = get_enriched_folder(game)
 
     bases = discover_parsed_bases(game)
 
@@ -678,7 +680,18 @@ def combine_processed_reviews(game):
 
     for base in bases:
 
-        merged = load_parsed_merged(folder, base)
+        # Critic reviews may have been enriched (full press article
+        # scraped from the journalist's site) into a separate enriched/
+        # file - prefer that over the plain excerpt in parsed/ when it
+        # exists, so the combined JSON carries the full text too.
+        enriched_base = base[:-len("_parsed")] + "_enriched"
+
+        merged = load_parsed_merged(enriched_folder, enriched_base)
+        stage = "enriched"
+
+        if merged is None:
+            merged = load_parsed_merged(parsed_folder, base)
+            stage = "parsed"
 
         if merged is None:
             continue
@@ -696,6 +709,7 @@ def combine_processed_reviews(game):
             "platform": meta.get("platform"),
             "aggregate_score": meta.get("aggregate_score"),
             "item_count": len(items),
+            "stage": stage,
         })
 
     combined_meta = {
